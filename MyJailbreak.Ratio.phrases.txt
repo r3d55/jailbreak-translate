@@ -1,0 +1,289 @@
+// Exported from SourceMod Translator
+// Date: 2019-08-21 13:44:05 UTC
+// Language: English (en)
+// 
+// To view other translations for this plugin, please visit:
+// http://translator.mitchdempsey.com/sourcemod_plugins/201
+//
+"Phrases"
+{
+
+	"ratio_auto"
+	{
+		"fr"		"Vous ne pouvez pas utiliser la sélection automatique pour rejoindre une équipe."
+	}
+
+	"ratio_fullqueue"
+	{
+		"#format"	"{1:i}"
+		"fr"		"L'équipe des gardiens est pleine. Tu es {green}#{1}{default} dans la file d'attente."
+	}
+
+	"ratio_info_title"
+	{
+		"fr"		"File d'attente gardien:"
+	}
+
+	"ratio_empty"
+	{
+		"fr"		"La file d'attente est actuellement {green}vide{default}."
+	}
+
+	"ratio_noct"
+	{
+		"fr"		"Vous devez être {green}prisonnier{default} pour rejoindre la file d'attente."
+	}
+
+	"ratio_find"
+	{
+		"#format"	"{1:N}"
+		"fr"		"Trouver le prochain gardien de la file d'attente. {green}{1} {default}est le nouveau gardien."
+	}
+
+	"ratio_random"
+	{
+		"#format"	"{1:N}"
+		"fr"		"La file d'attente des gardiens est actuellement vide. {green}{1} {default}a été choisi comme nouveau gardien au hasard."
+	}
+
+	"ratio_novalid"
+	{
+		"fr"		"Impossible de trouver un{green} joueur valide{default} a switch en gardien. Contacter un administrateur."
+	}
+
+	"ratio_number"
+	{
+		"#format"	"{1:i}"
+		"fr"		"Tu es {green}#{1}{default} dans la file d'attente des gardiens."
+	}
+
+	"ratio_thxvip"
+	{
+		"fr"		"Merci d'être un {darkred}VIP{default}! Vous avez été transféré au {green}en tete de la file d'attente!{default}"
+	}
+
+	"ratio_advip"
+	{
+		"fr"		"Obtenez un compte {darkred}VIP{default} pour être automatiquement déplacé en haut de la file d'attente."
+	}
+
+	"ratio_movetot"
+	{
+		"#format"	"{1:N}"
+		"fr"		"Il y a trop de gardiens. {green}{1}{default}a été choisi au hasard et transféré avec les prisonniers."
+	}
+
+	"ratio_removed"
+	{
+		"#format"	"{1:N},{2:N}"
+		"fr"		"L'admin {1} supprimé {2} de la file d'attente gardien!"
+	}
+
+	"ratio_notonqueue"
+	{
+		"fr"		"Vous n'êtes pas dans la file d'attente des gardiens"
+	}
+
+	"ratio_leavedqueue"
+	{
+		"fr"		"Vous n'êtes plus dans la file d'attente des gardiens!"
+	}
+
+	"ratio_accept_title"
+	{
+		"fr"		"Qualifications de gardien"
+	}
+
+	"ratio_accept_line1"
+	{
+		"fr"		"Avant de devenir gardien, vous devez accepter ces termes et accords:"
+	}
+
+	"ratio_accept_line2"
+	{
+		"fr"		"Je confirme avoir lu et compris les règles."
+	}
+
+	"ratio_accept_line3"
+	{
+		"fr"		"Je confirme avoir lu les règles CT deux fois!"
+	}
+
+	"ratio_accept_line4"
+	{
+		"fr"		"Je confirme que je jouerai loyalement et suivrai les règles du serveur."
+	}
+
+	"ratio_accept_line5"
+	{
+		"fr"		"Le non-respect des règles entraînera une interdiction CT."
+	}
+
+	"ratio_accept"
+	{
+		"fr"		"Oui, j'accepte ces termes et accords."
+	}
+
+	"ratio_notaccept"
+	{
+		"fr"		"Non, je ne veux pas devenir gardien."
+	}
+
+	"ratio_cooldown"
+	{
+		"fr"		"Vous êtes bloqué pour avoir raté la bonne réponse. Essayez au prochain tour."
+	}
+
+	"ratio_disabled"
+	{
+		"fr"		"Le ratio est désactivé par l'admin"
+	}
+
+	"ratio_hasdisabled"
+	{
+		"fr"		"L'admin a désactivé le ratio"
+	}
+
+	"ratio_hasactivated"
+	{
+		"fr"		"L'admin a activé le ratio. Correction du ratio au prochain tour."
+	}
+
+	"ratio_active"
+	{
+		"#format"	"{1:f}"
+		"fr"		"Le ratio est actif! 1 Gardien pour {1} Prisonniers"
+	}
+
+	"ratio_stamm"
+	{
+		"#format"	"{1:i}"
+		"fr"		"Vous avez besoin d'au moins {1} Points pour jouer en tant que gardien"
+	}
+
+	"ratio_banned_nc"
+	{
+		"fr"		"Impossible de jouer Gardiens car vous êtes banni CT."
+	}
+
+	"ratio_clearqueue"
+	{
+		"fr"		"L'administrateur a effacé la file d'attente des gardiens!"
+	}
+
+	"ratio_reputation"
+	{
+		"#format"	"{1:i}"
+		"fr"		"Vous avez besoin d'au moins {1} Points de réputation pour jouer en tant que gardien"
+	}
+
+	"ratio_remove"
+	{
+		"fr"		"Supprimer de la file d'attente:"
+	}
+
+	"ratio_banned"
+	{
+		"fr"		"Impossible de jouer Gardien parce que vous êtes {green}banni{default} des CT."
+	}
+
+	"ratio_rankme"
+	{
+		"#format"	"{1:i}"
+		"fr"		"Vous avez besoin d'au moins {1} RankMe Points pour jouer comme gardien"
+	}
+
+	"ratio_close"
+	{
+		"fr"		"Exit"
+	}
+
+	"ratio_steamrep"
+	{
+		"fr"		"Impossible de jouer gardien parce que vous êtes {red}SCAMMER{default}. regarde sur steamrep.com"
+	}
+
+	"ratio_sure"
+	{
+		"fr"		"Êtes-vous sûr?"
+	}
+
+	"ratio_yes"
+	{
+		"fr"		"Oui"
+	}
+
+	"ratio_no"
+	{
+		"fr"		"Non"
+	}
+
+	"ratio_steamgroup"
+	{
+		"fr"		"Impossible de jouer garidien, vous devez d'abord rejoindre notre groupe Steam"
+	}
+
+	"ratio_lvlranks"
+	{
+		"#format"	"{1:i}"
+		"fr"		"Vous avez besoin d'au moins le niveau {1} pour jouer comme gardien"
+	}
+
+	"ratio_hours"
+	{
+		"fr"		"heure(s)"
+	}
+
+	"ratio_seconds"
+	{
+		"fr"		"secondes"
+	}
+
+	"ratio_minutes"
+	{
+		"fr"		"minute(s)"
+	}
+
+	"ratio_mostactive"
+	{
+		"#format"	"{1:s}"
+		"fr"		"Vous devez avoir joué au moins {1} pour jouer comme gardien."
+	}
+
+	"ratio_mostactive_terror"
+	{
+		"#format"	"{1:s}"
+		"fr"		"Vous devez avoir joué au moins {1} comme prisonnier pour jouer comme gardien. "
+	}
+
+	"ratio_guard_enable"
+	{
+		"fr"		"Vous autorisez à être choisi comme gardien aléatoire lorsque la file d'attente des gardiens est vide"
+	}
+
+	"ratio_guard_disable"
+	{
+		"fr"		"Vous refusez d'être choisi comme gardiens aléatoire lorsque la file d'attente des gardiens est vide"
+	}
+
+	"ratio_swap_spec"
+	{
+		"fr"		"Vous avez été swap dans l'equipe T, car vous avez rejoint la file d'attente des gardiens"
+	}
+
+	"ratio_fullguards"
+	{
+		"fr"		"Les gardiens sont actuellement complets. Veuillez réessayer plus tard."
+	}
+
+	"ratio_voice"
+	{
+		"fr"		"Vous n'avez jamais utilisé votre micro auparavant, vous ne pouvez pas rejoindre les gardiens sans voix. Utilisez votre micro et réessayez."
+	}
+
+	"ratio_question_title"
+	{
+		"fr"		"Veuillez répondre aux questions suivantes pour devenir gardien."
+	}
+
+}

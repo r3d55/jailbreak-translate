@@ -1,0 +1,161 @@
+// Exported from SourceMod Translator
+// Date: 2019-08-21 13:44:13 UTC
+// Language: English (en)
+// 
+// To view other translations for this plugin, please visit:
+// http://translator.mitchdempsey.com/sourcemod_plugins/189
+//
+"Phrases"
+{
+
+	"zeus_need"
+	{
+		"#format"	"{1:i},{2:N}"
+		"fr"		"{purple}{2}{default} a voté. {purple}{1}{default} votes requis pour jouer au mod {darkred}Taser."
+	}
+
+	"zeus_rounds"
+	{
+		"#format"	"{1:i},{2:i}"
+		"fr"		"Round {purple}{1}{default} sur {purple}{2}"
+	}
+
+	"zeus_twin_nc"
+	{
+		"fr"		"Un prisonnier a survécu!"
+	}
+
+	"zeus_voting"
+	{
+		"fr"		"Le vote pour Taser est {purple}désactivé!"
+	}
+
+	"zeus_setbywarden"
+	{
+		"fr"		"La configuration Taser par le chef des gardiens est {purple}désactivé!"
+	}
+
+	"zeus_setbyadmin"
+	{
+		"fr"		"La configuration Taser par l'admin est {purple}désactivé!"
+	}
+
+	"zeus_minplayer"
+	{
+		"fr"		"Pour Taser, vous avez besoin d'au moins {purple}un garde et un prisonnier!"
+	}
+
+	"zeus_ctwin_nc"
+	{
+		"fr"		"Un garde a survécu!"
+	}
+
+	"zeus_end"
+	{
+		"fr"		"{purple}Taser Day{default} a pris fin."
+	}
+
+	"zeus_next"
+	{
+		"fr"		"Le tour suivant sera: Taser."
+	}
+
+	"zeus_next_nc"
+	{
+		"fr"		"Le tour suivant sera: Taser Day."
+	}
+
+	"zeus_start"
+	{
+		"fr"		"{purple}Taser Day{default} a commencé!"
+	}
+
+	"zeus_start_nc"
+	{
+		"fr"		"Taser Day a commencé!"
+	}
+
+	"zeus_voted"
+	{
+		"fr"		"Vous avez déjà voté pour {purple}Taser Day!"
+	}
+
+	"zeus_progress"
+	{
+		"#format"	"{1:s}"
+		"fr"		"L'événement {darkred}{1} {default}est {purple}déjà en cours!"
+	}
+
+	"zeus_disabled"
+	{
+		"fr"		"Taser Day est actuellement {purple}désactivé!"
+	}
+
+	"zeus_timeuntilstart_nc"
+	{
+		"#format"	"{1:i}"
+		"fr"		"{1} secondes avant le début du tour!"
+	}
+
+	"zeus_info_title"
+	{
+		"fr"		"Taser Day est maintenant activé!"
+	}
+
+	"zeus_info_line1"
+	{
+		"fr"		"Taser Day - FFA!"
+	}
+
+	"zeus_info_line2"
+	{
+		"fr"		"Vous n'avez qu'un seul coup dans votre taser!"
+	}
+
+	"zeus_info_line3"
+	{
+		"fr"		"Lorsque vous obtenez un kill, vous serez récompensé avec une autre recharge de taser!"
+	}
+
+	"zeus_info_line4"
+	{
+		"fr"		"Toutes les règles habituelles du Jailbreak ne s'appliquent pas pendant ce tour!"
+	}
+
+	"zeus_info_line5"
+	{
+		"fr"		"La dernière demande est désactivée pendant ce tour!"
+	}
+
+	"zeus_info_line6"
+	{
+		"fr"		"Vous devez rester dans la prison! N'entrez pas dans pieces ou les endroits secrets!"
+	}
+
+	"zeus_info_line7"
+	{
+		"fr"		"Ne sois pas un abruti!"
+	}
+
+	"zeus_wait"
+	{
+		"#format"	"{1:i}"
+		"fr"		"Vous devez attendre {purple}{1}{default} round de plus pour un Event Day!"
+	}
+
+	"zeus_name"
+	{
+		"fr"		"Taser Day"
+	}
+
+	"zeus_now_nc"
+	{
+		"fr"		"Maintenant, un tour Taser commence."
+	}
+
+	"zeus_now"
+	{
+		"fr"		"Maintenant {purple}Taser{default} le tour commence."
+	}
+
+}

@@ -1,0 +1,165 @@
+// Exported from SourceMod Translator
+// Date: 2019-08-21 13:44:04 UTC
+// Language: English (en)
+// 
+// To view other translations for this plugin, please visit:
+// http://translator.mitchdempsey.com/sourcemod_plugins/197
+//
+"Phrases"
+{
+
+	"lastguard_need"
+	{
+		"#format"	"{1:i},{2:N}"
+		"fr"		"{purple}{2}{default} a voté. {purple}{1}{default} ton vote est requis pour {darkred}La règle du dernier Gardien!"
+	}
+
+	"lastguard_twin_nc"
+	{
+		"fr"		"Les prisonniers ont survécu! Les CTs vous valez rien."
+	}
+
+	"lastguard_minplayer"
+	{
+		"fr"		"Pour la règle du Dernier Gardien, il vous faut au moins {purple}un Gardien et minimum 2 Terroristes!"
+	}
+
+	"lastguard_hp"
+	{
+		"#format"	"{1:i},{2:i},{3:N},{4:i}"
+		"fr"		"Le prisionnier {purple}{1}{default} a combiné un total de: {purple}{2} HP{default}. Le dernier Gardien {3} a maintenant: {purple}{4} HP{default}."
+	}
+
+	"lastguard_setbyadmin"
+	{
+		"fr"		"La règle du dernier Gardien activé par un admin est {purple}déactivé!"
+	}
+
+	"lastguard_ctwin_nc"
+	{
+		"fr"		"Les Gardiens ont gagné!"
+	}
+
+	"lastguard_end"
+	{
+		"fr"		"La {purple}règle du Dernier Gardien{default} est fini!"
+	}
+
+	"lastguard_startnow"
+	{
+		"fr"		"Attention! {purple}La règle du Dernier Gardien{default} est maintenant activé!"
+	}
+
+	"lastguard_startnow_nc"
+	{
+		"fr"		"Attention! Le dernier Gardien est activé!"
+	}
+
+	"lastguard_start"
+	{
+		"fr"		"La {purple}règle du Dernier Gardien{default} a commencé!"
+	}
+
+	"lastguard_lr"
+	{
+		"fr"		"Une {purple}Dernière requête{default} est déjà activé! La règle du Dernier Gardien n'est pas disponible!"
+	}
+
+	"lastguard_start_nc"
+	{
+		"fr"		"Le dernier gardien a commencé"
+	}
+
+	"lastguard_movenow"
+	{
+		"fr"		"Tu peux {purple}bouger maintenant!"
+	}
+
+	"lastguard_movenow_nc"
+	{
+		"fr"		"Tu peux bouger maintenant!"
+	}
+
+	"lastguard_voted"
+	{
+		"fr"		"Tu as déjà voté pour {purple}La règle du Dernier Gardien"
+	}
+
+	"lastguard_notalive"
+	{
+		"fr"		"Tu {purple}dois être en vie{default} pour utiliser cette commande!"
+	}
+
+	"lastguard_progress"
+	{
+		"#format"	"{1:s}"
+		"fr"		"L'évenement {darkred}{1} {default}est {purple}déjà en cours! La règle du Dernier Gardien est désactivé!"
+	}
+
+	"lastguard_running"
+	{
+		"fr"		"La règle du Dernier Gardien {default}est {purple}déjà en cours!"
+	}
+
+	"lastguard_disabled"
+	{
+		"fr"		"La règle du Dernier Gardien est temporairement {purple}désactivé!"
+	}
+
+	"lastguard_timeuntilstart_nc"
+	{
+		"#format"	"{1:i}"
+		"fr"		"{1} secondes avant que le round commence!"
+	}
+
+	"lastguard_info_title"
+	{
+		"fr"		"La règle du Dernier Gardien!"
+	}
+
+	"lastguard_info_title"
+	{
+		"fr"		"La règle du Dernier Gardien!"
+	}
+
+	"lastguard_info_line1"
+	{
+		"fr"		"La règle du Dernier Gardien - Prisonnier contre Gardien!"
+	}
+
+	"lastguard_info_line4"
+	{
+		"fr"		"Toutes les règles du Jail ne s'applique pas sur ce round!"
+	}
+
+	"lastguard_info_line5"
+	{
+		"fr"		"La dernière requête est désactivé sur ce round!"
+	}
+
+	"lastguard_info_line7"
+	{
+		"fr"		"Ne sois pas un enculé!"
+	}
+
+	"lastguard_info_line2"
+	{
+		"fr"		"Tous les prisonniers sont des rebelles!"
+	}
+
+	"lastguard_info_line3"
+	{
+		"fr"		"Le dernier Gardien a encore beaucoup de vie!"
+	}
+
+	"lastguard_info_line6"
+	{
+		"fr"		"Tous le monde est autorisé à aller où il veut sur la map!"
+	}
+
+	"lastguard_close"
+	{
+		"fr"		"Sortie"
+	}
+
+}

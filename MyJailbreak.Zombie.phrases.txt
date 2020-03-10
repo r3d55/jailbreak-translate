@@ -1,0 +1,167 @@
+// Exported from SourceMod Translator
+// Date: 2019-08-21 13:44:15 UTC
+// Language: English (en)
+// 
+// To view other translations for this plugin, please visit:
+// http://translator.mitchdempsey.com/sourcemod_plugins/184
+//
+"Phrases"
+{
+
+	"zombie_need"
+	{
+		"#format"	"{1:i},{2:N}"
+		"fr"		"{purple}{2}{default} a voté. {purple}{1}{default} votes requis pour jouer au mod {darkred}Zombie."
+	}
+
+	"zombie_rounds"
+	{
+		"#format"	"{1:i},{2:i}"
+		"fr"		"Round {purple}{1}{default} sur {purple}{2}"
+	}
+
+	"zombie_voting"
+	{
+		"fr"		"Le vote pour Zombie est {purple}désactivé!"
+	}
+
+	"zombie_setbywarden"
+	{
+		"fr"		"La configuration Zombie par le chef des gardiens est {purple}désactivé!"
+	}
+
+	"zombie_setbyadmin"
+	{
+		"fr"		"La configuration Zombie par l'admin est {purple}désactivé!"
+	}
+
+	"zombie_ctwin_nc"
+	{
+		"fr"		"Les zombies ont tué tous les humains!"
+	}
+
+	"zombie_twin_nc"
+	{
+		"fr"		"Les humains ont survécu!"
+	}
+
+	"zombie_end"
+	{
+		"fr"		"{purple}Zombie{default} a pris fin."
+	}
+
+	"zombie_next_nc"
+	{
+		"fr"		"Le tour suivant sera: Zombie."
+	}
+
+	"zombie_next"
+	{
+		"fr"		"Le tour suivant sera: {purple}Zombie."
+	}
+
+	"zombie_start"
+	{
+		"fr"		"{purple}Zombie{default} a commencé!"
+	}
+
+	"zombie_start_nc"
+	{
+		"fr"		"Zombie a commencé!"
+	}
+
+	"zombie_voted"
+	{
+		"fr"		"Vous avez déjà voté pour {purple}Zombie!"
+	}
+
+	"zombie_progress"
+	{
+		"#format"	"{1:s}"
+		"fr"		"L'événement {darkred}{1} {default}est {purple}déjà en cours!"
+	}
+
+	"zombie_minplayer"
+	{
+		"fr"		"Pour Zombie, vous avez besoin d'au moins {purple}un garde et un prisonnier!"
+	}
+
+	"zombie_timeuntilzombie_nc"
+	{
+		"#format"	"{1:i}"
+		"fr"		"{1} secondes restantes pour se cacher!"
+	}
+
+	"zombie_timetounfreeze_nc"
+	{
+		"#format"	"{1:i}"
+		"fr"		"{1} secondes jusqu'à ce que vous soyez plus Freez!"
+	}
+
+	"zombie_info_title"
+	{
+		"fr"		"Zombie est maintenant activé!"
+	}
+
+	"zombie_info_line1"
+	{
+		"fr"		"Zombies(Gardien) VS Humains(prisonniers)!"
+	}
+
+	"zombie_info_line2"
+	{
+		"fr"		"Le Zombies est freez! Les humains devraient courir!"
+	}
+
+	"zombie_info_line3"
+	{
+		"fr"		"Les zombies ont une grande quantité de d'HP!"
+	}
+
+	"zombie_info_line4"
+	{
+		"fr"		"Toutes les règles habituelles du Jailbreak ne s'appliquent pas pendant ce tour!"
+	}
+
+	"zombie_info_line5"
+	{
+		"fr"		"La dernière requete est désactivée pendant ce tour!"
+	}
+
+	"zombie_info_line6"
+	{
+		"fr"		"Tout le monde est autorisé à aller n'importe où sur la map!"
+	}
+
+	"zombie_info_line7"
+	{
+		"fr"		"Ne sois pas un abruti!"
+	}
+
+	"zombie_wait"
+	{
+		"#format"	"{1:i}"
+		"fr"		"Vous devez attendre {purple}{1}{default} round de plus pour un Event Day!"
+	}
+
+	"zombie_disabled"
+	{
+		"fr"		"Zombie est actuellement {purple}désactivé."
+	}
+
+	"zombie_name"
+	{
+		"fr"		"Zombie Day"
+	}
+
+	"zombie_now_nc"
+	{
+		"fr"		"Maintenant, un round tour Zombie commence."
+	}
+
+	"zombie_now"
+	{
+		"fr"		"Maintenant {purple}Zombie{default} le round commence."
+	}
+
+}

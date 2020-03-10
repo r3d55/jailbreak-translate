@@ -1,0 +1,420 @@
+// Exported from SourceMod Translator
+// Date: 2019-08-21 13:44:02 UTC
+// Language: English (en)
+// 
+// To view other translations for this plugin, please visit:
+// http://translator.mitchdempsey.com/sourcemod_plugins/180
+//
+"Phrases"
+{
+
+	"menu_info"
+	{
+		"fr"		"Pour ouvrir le menu Jailbreak, appuyez sur ou tapez !menu dans le chat!"
+	}
+
+	"menu_info_title"
+	{
+		"fr"		"Jailbreak Menu"
+	}
+
+	"menu_countdown"
+	{
+		"fr"		"Commencez un compte à rebours"
+	}
+
+	"menu_opencell"
+	{
+		"fr"		"Ouvrez les cellules"
+	}
+
+	"menu_seteventdays"
+	{
+		"fr"		"Définir un Event Days"
+	}
+
+	"menu_voteeventdays"
+	{
+		"fr"		"Vote pour un Event Days"
+	}
+
+	"menu_math"
+	{
+		"fr"		"Lancer un quiz mathématique"
+	}
+
+	"menu_guns"
+	{
+		"fr"		"Menu d'armes"
+	}
+
+	"menu_laser"
+	{
+		"fr"		"Menu pointeur laser"
+	}
+
+	"menu_noblock"
+	{
+		"fr"		"NoBlock"
+	}
+
+	"menu_sparks"
+	{
+		"fr"		"Toggle BulletImpact Sparks"
+	}
+
+	"menu_extend"
+	{
+		"fr"		"Prolongez le temps du round"
+	}
+
+	"menu_ffon"
+	{
+		"fr"		"Activer FF pour les T"
+	}
+
+	"menu_ffoff"
+	{
+		"fr"		"Desactiver le FF pour les T"
+	}
+
+	"menu_randomdead"
+	{
+		"fr"		"Tuez un prisonnier au hasard"
+	}
+
+	"menu_unwarden"
+	{
+		"fr"		"Prendre sa retraite de chef"
+	}
+
+	"menu_getwarden"
+	{
+		"fr"		"Devenez le chef des gardiens"
+	}
+
+	"menu_joint"
+	{
+		"fr"		"Devenez prisonnier"
+	}
+
+	"menu_check"
+	{
+		"fr"		"Vérifier les rebelles"
+	}
+
+	"menu_lr"
+	{
+		"fr"		"Dernière requete"
+	}
+
+	"menu_removewarden"
+	{
+		"fr"		"Supprimer le chef gardien"
+	}
+
+	"menu_setwarden"
+	{
+		"fr"		"Définir un nouveau chef gardien"
+	}
+
+	"menu_rules"
+	{
+		"fr"		"Règles"
+	}
+
+	"menu_joinct"
+	{
+		"fr"		"Devenez un garde"
+	}
+
+	"menu_guardct"
+	{
+		"fr"		"Rejoindre la file d'attente pour gadien (!guard)"
+	}
+
+	"menu_request"
+	{
+		"fr"		"Demandes"
+	}
+
+	"menu_votewarden"
+	{
+		"fr"		"Votez pour virer le chef des gardiens"
+	}
+
+	"menu_event_Titlestart"
+	{
+		"fr"		"Démarrer l'événement au prochain round"
+	}
+
+	"menu_event_Titlevote"
+	{
+		"fr"		"Votez pour un Event Day"
+	}
+
+	"menu_war"
+	{
+		"fr"		"War"
+	}
+
+	"menu_ffa"
+	{
+		"fr"		"Free for All"
+	}
+
+	"menu_zeus"
+	{
+		"fr"		"Zeus Day"
+	}
+
+	"menu_zombie"
+	{
+		"fr"		"Zombie Day"
+	}
+
+	"menu_hide"
+	{
+		"fr"		"Hide in The Dark"
+	}
+
+	"menu_suicidebomber"
+	{
+		"fr"		"Suicide Bomber"
+	}
+
+	"menu_catch"
+	{
+		"fr"		"Catch & Freeze"
+	}
+
+	"menu_knifefight"
+	{
+		"fr"		"Knife Fight"
+	}
+
+	"menu_hebattle"
+	{
+		"fr"		"HE Battle"
+	}
+
+	"menu_cowboy"
+	{
+		"fr"		"Cowboy"
+	}
+
+	"menu_drunk"
+	{
+		"fr"		"Drunk Day"
+	}
+
+	"menu_torch"
+	{
+		"fr"		"Torch Relay"
+	}
+
+	"menu_noscope"
+	{
+		"fr"		"No Scope"
+	}
+
+	"menu_duckhunt"
+	{
+		"fr"		"DuckHunt"
+	}
+
+	"menu_admin"
+	{
+		"fr"		"Admin Menu"
+	}
+
+	"menu_mute"
+	{
+		"fr"		"Mute Menu"
+	}
+
+	"menu_painter"
+	{
+		"fr"		"Painter Menu"
+	}
+
+	"menu_closecell"
+	{
+		"fr"		"Fermez les portes des cellules"
+	}
+
+	"menu_voting"
+	{
+		"fr"		"Votez pour un Event Day:"
+	}
+
+	"menu_voteday"
+	{
+		"fr"		"Démarrer un vote pour un Event Day"
+	}
+
+	"menu_votingwon"
+	{
+		"#format"	"{1:s},{2:i},{3:i}"
+		"fr"		"The vote has ended with {2} vote yet. {green}{1} {default}won with {3} votes."
+	}
+
+	"menu_minplayer"
+	{
+		"fr"		"For a Event Day Voting, you must have at least {purple}one Guard, & one Prisoner"
+	}
+
+	"menu_progress"
+	{
+		"#format"	"{1:s}"
+		"fr"		"The event {darkred}{1} {default}is {purple}already in progress!"
+	}
+
+	"menu_wait"
+	{
+		"#format"	"{1:i}"
+		"fr"		"You must wait {purple}{1}{default} more rounds for an Event Day Voting!"
+	}
+
+	"menu_votingdraw"
+	{
+		"fr"		"The vote ended in a 50/50 draw! An Event Day was chosen Randomly!"
+	}
+
+	"menu_disabled"
+	{
+		"fr"		"Event voting is currently {purple}disabled!"
+	}
+
+	"menu_playerfreeday"
+	{
+		"fr"		"Offrez un quartier libre pour un joueur"
+	}
+
+	"menu_teamgamesmenu"
+	{
+		"fr"		"Jeux d'équipe - Menu"
+	}
+
+	"menu_teamgamesgames"
+	{
+		"fr"		"Jeux d'équipe - Games"
+	}
+
+	"menu_undeputy"
+	{
+		"fr"		"Retire From Deputy"
+	}
+
+	"menu_removedeputy"
+	{
+		"fr"		"Remove Deputy"
+	}
+
+	"menu_deputybecome"
+	{
+		"fr"		"Become Wardens Deputy"
+	}
+
+	"menu_deputyset"
+	{
+		"fr"		"Set your Deputy"
+	}
+
+	"menu_rebel"
+	{
+		"fr"		"Un/Mark a player as Rebel"
+	}
+
+	"menu_count"
+	{
+		"fr"		"Nombre de prisonniers en vue"
+	}
+
+	"menu_jailshop"
+	{
+		"fr"		"Ouvrir Jail Shop"
+	}
+
+	"menu_orders"
+	{
+		"fr"		"Ordres"
+	}
+
+	"menu_ghosts"
+	{
+		"fr"		"Ghosts War"
+	}
+
+	"menu_votingcancel"
+	{
+		"#format"	"{1:s}"
+		"fr"		"The voting was canceled, cause EventDay {purple}{1}{default} was already set!"
+	}
+
+	"menu_removequeue"
+	{
+		"fr"		"Remove player from guard queue"
+	}
+
+	"menu_endround"
+	{
+		"fr"		"Force round end"
+	}
+
+	"menu_clearqueue"
+	{
+		"fr"		"Clear guard queue"
+	}
+
+	"menu_noevent"
+	{
+		"fr"		"No Event Day"
+	}
+
+	"menu_joinspec"
+	{
+		"fr"		"Go Spectator"
+	}
+
+	"menu_gangs"
+	{
+		"fr"		"Gangs Menu"
+	}
+
+	"menu_teleport"
+	{
+		"fr"		"Teleport War"
+	}
+
+	"menu_armsrace"
+	{
+		"fr"		"Arms Race"
+	}
+
+	"menu_playerremovefreeday"
+	{
+		"fr"		"Supprimer un quartier libre"
+	}
+
+	"menu_oneinthechamber"
+	{
+		"fr"		"One in the chamber"
+	}
+
+	"menu_nolr"
+	{
+		"fr"		"Toggle withheld Last Request"
+	}
+
+	"menu_dealdamage"
+	{
+		"fr"		"Deal Damage Day"
+	}
+
+	"menu_freeday"
+	{
+		"fr"		"Quartier Libre"
+	}
+
+}

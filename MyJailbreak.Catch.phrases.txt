@@ -1,0 +1,200 @@
+// Exported from SourceMod Translator
+// Date: 2019-08-21 13:44:18 UTC
+// Language: français (fr)
+// 
+// To view other translations for this plugin, please visit:
+// http://translator.mitchdempsey.com/sourcemod_plugins/185
+//
+"Phrases"
+{
+
+	"catch_need"
+	{
+		"#format"	"{1:i},{2:N}"
+		"fr"		"{purple}{2}{default} a voté. {purple}{1}{default} vote(s) requi(s) pour le {darkred} Jeu du Chat!"
+	}
+
+	"catch_rounds"
+	{
+		"#format"	"{1:i},{2:i}"
+		"fr"		"Round {purple}{1}{default} sur {purple}{2}"
+	}
+
+	"catch_twin_nc"
+	{
+		"fr"		"Les prisonners se sont échapés!"
+	}
+
+	"catch_ctwin_nc"
+	{
+		"fr"		"Tous les prisonniers ont été attrapés !"
+	}
+
+	"catch_end"
+	{
+		"fr"		"{purple}Le jeu du Chat{default} est terminé."
+	}
+
+	"catch_voting"
+	{
+		"fr"		"Voter pour le Jeu du Chat est actuellement {purple}désactivé !"
+	}
+
+	"catch_setbywarden"
+	{
+		"fr"		"Le lancement du Jeu du Chat par un Gardien estactuellement {purple}désactivée !"
+	}
+
+	"catch_setbyadmin"
+	{
+		"fr"		"Le lancement du Jeu du Chat par un Admin est actuellement {purple}désactivée !"
+	}
+
+	"catch_next"
+	{
+		"fr"		"Le round suivant sera : {purple}le Jeu du Chat."
+	}
+
+	"catch_next_nc"
+	{
+		"fr"		"Le round suivant sera : le Jeu du Chat."
+	}
+
+	"catch_start"
+	{
+		"fr"		"{purple}Le Jeu du Chat{default} a commencé !"
+	}
+
+	"catch_start_nc"
+	{
+		"fr"		"Le Jeu du Chat a commencé!"
+	}
+
+	"catch_voted"
+	{
+		"fr"		"Tu as déjà voté pour {purple}le Jeu du Chat!"
+	}
+
+	"catch_progress"
+	{
+		"#format"	"{1:s}"
+		"fr"		"L'Event {darkred}{1} {default}est {purple}déjà en cours!"
+	}
+
+	"catch_minplayer"
+	{
+		"fr"		"Pour le Jeu du Chat, il faut au moins {purple}un Gardien et un Prisonnier"
+	}
+
+	"catch_sprint"
+	{
+		"fr"		"Tu es maintenant en train de {blue}Sprinter!"
+	}
+
+	"catch_sprintend"
+	{
+		"#format"	"{1:i}"
+		"fr"		"{blue}Tu es trop fatigué pour sprinter !{default} Reposes toi pendant {1} secondes."
+	}
+
+	"catch_sprintagain"
+	{
+		"fr"		"Tu as repris ton souffle. Tu peux {blue}sprinter {default}de nouveau !"
+	}
+
+	"catch_désactivé"
+	{
+		"fr"		"Le Jeu du Chat {purple}désactivé."
+	}
+
+	"catch_info_title"
+	{
+		"fr"		"Le Jeu du Chat est activé !"
+	}
+
+	"catch_info_line1"
+	{
+		"fr"		"Les Gardiens doivent attraper et geler les Prisonniers."
+	}
+
+	"catch_info_line2"
+	{
+		"fr"		"Les Prisonniers peuvent se libérer entre eux en se cutant !"
+	}
+
+	"catch_info_line3"
+	{
+		"fr"		"Maintient E pour courir !"
+	}
+
+	"catch_info_line4"
+	{
+		"fr"		"Les règles du Jail Break ne s'appliquent pas pendant ce round!"
+	}
+
+	"catch_info_line5"
+	{
+		"fr"		"La Dernière Volonté désactivé pendant ce round."
+	}
+
+	"catch_info_line6"
+	{
+		"fr"		"Tu dois rester dans ta cellule ! Les zones secrètes sont interdis !"
+	}
+
+	"catch_info_line7"
+	{
+		"fr"		"Les règles du Serveur s'appliquent toujours pendant ce round!"
+	}
+
+	"catch_wait"
+	{
+		"#format"	"{1:i}"
+		"fr"		"Tu dois attendre {purple}{1}{default} round supplémentaire pour un Event Day!"
+	}
+
+	"catch_unfreeze"
+	{
+		"#format"	"{1:N},{2:N}"
+		"fr"		"Les Prisonier {purple}{1}{default} sont libres {blue}{2} !"
+	}
+
+	"catch_catch"
+	{
+		"#format"	"{1:N},{2:N}"
+		"fr"		"Les Guardiens{purple}{1}{default} sont libres {blue}{2}{default} !"
+	}
+
+	"catch_win"
+	{
+		"fr"		"Tous les prisonniers ont été {purple}attrapés !"
+	}
+
+	"catch_name"
+	{
+		"fr"		"Le Jeu du Chat"
+	}
+
+	"catch_timetounfreeze_nc"
+	{
+		"#format"	"{1:i}"
+		"fr"		"{1} seconde(s) avant que tu sois libre !"
+	}
+
+	"catch_timeuntilstart_nc"
+	{
+		"#format"	"{1:i}"
+		"fr"		"{1} seconde(s) restante(s) pour se cacher !"
+	}
+
+	"catch_now_nc"
+	{
+		"fr"		"Un round du Jeu du Chat a commencé."
+	}
+
+	"catch_now"
+	{
+		"fr"		"Un round du {purple}Jeu du Chat{default} a maintenant commencé ."
+	}
+
+}

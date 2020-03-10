@@ -1,0 +1,396 @@
+// Exported from SourceMod Translator
+// Date: 2019-08-21 13:44:03 UTC
+// Language: English (en)
+// 
+// To view other translations for this plugin, please visit:
+// http://translator.mitchdempsey.com/sourcemod_plugins/196
+//
+"Phrases"
+{
+
+	"request_openrefuse"
+	{
+		"fr"		"Le chef des gardiens a autorisé les refus.{purple} Tapez !refuse pour refuser le jeu!"
+	}
+
+	"request_refusing"
+	{
+		"#format"	"{1:N}"
+		"fr"		"{purple}{1} {default}a {purple}a refusé le jeu!"
+	}
+
+	"request_alreadyrefused"
+	{
+		"fr"		"Vous avez {purple}déjà refusé le jeu!"
+	}
+
+	"request_refuseallow"
+	{
+		"fr"		"Le chef des gardiens doit d'abord {purple}permettre de refuser en tapant !refuse"
+	}
+
+	"request_notalivect"
+	{
+		"fr"		"Vous êtes soit mort, soit gardien!"
+	}
+
+	"request_fullhp"
+	{
+		"fr"		"Bien essayé! Vous êtes en pleine santé!"
+	}
+
+	"request_refusedtimes"
+	{
+		"#format"	"{1:i}"
+		"fr"		"Tu as déjà {purple}refusé {1} fois{default} pendant ce round!"
+	}
+
+	"request_capitulation"
+	{
+		"#format"	"{1:N}"
+		"fr"		"{purple}{1} {default}a {purple}capitulé! {default}Le chef des gardiens acceptera-t-il la demande?"
+	}
+
+	"request_alreadycapitulated"
+	{
+		"fr"		"Vous avez {purple}déjà capitulé!"
+	}
+
+	"request_knifeback"
+	{
+		"fr"		"On vous a donné {purple}ton couteau en arrière."
+	}
+
+	"request_accepted"
+	{
+		"#format"	"{1:N},{2:N}"
+		"fr"		"{2} a accepté {1}la demande."
+	}
+
+	"request_noaccepted"
+	{
+		"#format"	"{1:N},{2:N}"
+		"fr"		"{2} a {purple}not{default} accepté {1}la demande."
+	}
+
+	"request_refuser"
+	{
+		"fr"		"Un joueur la refuse!"
+	}
+
+	"request_acceptcapitulation"
+	{
+		"fr"		"Acceptez-vous la capitulation?"
+	}
+
+	"request_acceptheal"
+	{
+		"fr"		"Acceptez-vous la guérison?"
+	}
+
+	"request_health"
+	{
+		"fr"		"Vous avez reçu un {purple} Healthshot{default}!"
+	}
+
+	"request_heal"
+	{
+		"#format"	"{1:N}"
+		"fr"		"{purple}{1} {default}a demandé un {purple}Healthshot! {default}Le chef des gardiens acceptera-t-il la demande?"
+	}
+
+	"request_healtimes"
+	{
+		"#format"	"{1:i}"
+		"fr"		"Vous avez déjà demandé une guérison{purple}{1} fois{default} pendant ce round!"
+	}
+
+	"request_alreadyhealed"
+	{
+		"fr"		"Vous avez déjà demandé un{purple} Healthshot!"
+	}
+
+	"request_nodamage"
+	{
+		"fr"		"Tu ne peux pas faire {purple}de dommages après capitulation!"
+	}
+
+	"request_processing"
+	{
+		"fr"		"Il existe déjà une {purple}demande en cours de traitement. Attendez un moment!"
+	}
+
+	"request_repeatpls"
+	{
+		"#format"	"{1:N}"
+		"fr"		"{purple}{1} {default}a demandé de {purple}Répéter!{default}"
+	}
+
+	"request_repeattimes"
+	{
+		"#format"	"{1:i}"
+		"fr"		"Vous avez déjà demandé une {purple} Répétition {1} fois{default} pendant ce round!"
+	}
+
+	"request_alreadyrepeat"
+	{
+		"fr"		"Vous avez déjà demandé une {purple}repetition!"
+	}
+
+	"request_repeat"
+	{
+		"fr"		"Un joueur demande une répétition!"
+	}
+
+	"request_menu_title"
+	{
+		"fr"		"Faire une demande"
+	}
+
+	"request_menu_repeat"
+	{
+		"fr"		"Rediffuser le message"
+	}
+
+	"request_menu_refuse"
+	{
+		"fr"		"Refuser le jeu actuel"
+	}
+
+	"request_menu_heal"
+	{
+		"fr"		"Demander une guérison"
+	}
+
+	"request_menu_capitulation"
+	{
+		"fr"		"Capitulation"
+	}
+
+	"request_menu_freekill"
+	{
+		"fr"		"Report un Freekill"
+	}
+
+	"request_freekill"
+	{
+		"#format"	"{1:N},{2:N},{3:N}"
+		"fr"		"{green}{1}{default} a envoyé un rapport de Freekill de {darkred}{2}{default} a {purple}{3}!"
+	}
+
+	"request_pardonfreekill"
+	{
+		"fr"		"Était-ce un Freekill?"
+	}
+
+	"request_handlefreekill"
+	{
+		"fr"		"Comment voulez-vous gérer ce freekill?"
+	}
+
+	"request_respawnvictim"
+	{
+		"fr"		"Respawn la victime"
+	}
+
+	"request_killfreekiller"
+	{
+		"fr"		"Slay le Freekiller"
+	}
+
+	"request_freeday"
+	{
+		"fr"		"Prochain Round Quartier Libre"
+	}
+
+	"request_swapfreekiller"
+	{
+		"fr"		"Swap freekiller dans l'équipe des prisonniers"
+	}
+
+	"request_aliveorct"
+	{
+		"fr"		"Vous êtes soit vivant, soit gardien!"
+	}
+
+	"request_nokiller"
+	{
+		"fr"		"Désolé, nous ne pouvons pas trouver votre tueur!"
+	}
+
+	"request_respawned"
+	{
+		"fr"		"Vous avez été respawn!"
+	}
+
+	"request_respawnedall"
+	{
+		"#format"	"{1:N}"
+		"fr"		"{1} a été respwan en raison d'un {darkred}Freekill!"
+	}
+
+	"request_killbcfreekill"
+	{
+		"fr"		"Vous avez été tué à cause d'un {darkred}Freekill!"
+	}
+
+	"request_killbcfreekillall"
+	{
+		"#format"	"{1:N}"
+		"fr"		"{green}{1}{default} a été tué en raison d'un {darkred}Freekill!"
+	}
+
+	"request_swapbcfreekill"
+	{
+		"fr"		"Vous avez été transféré dans l'équipe prisonnier en raison d'un {darkred}Freekill!"
+	}
+
+	"request_swapbcfreekillall"
+	{
+		"#format"	"{1:N}"
+		"fr"		"{green}{1}{default} a été swap en raison d'un {darkred}freekill{default} dans l'équipe des prisonniers!"
+	}
+
+	"request_handlerespawn"
+	{
+		"fr"		"Où voulez-vous apparaître?"
+	}
+
+	"request_respawnbody"
+	{
+		"fr"		"Réapparaître sur la Death Place"
+	}
+
+	"request_respawncell"
+	{
+		"fr"		"Réapparaître dans une cellule"
+	}
+
+	"request_respawnwarden"
+	{
+		"fr"		"Réapparaître devant le gardien"
+	}
+
+	"request_freekilltimes"
+	{
+		"#format"	"{1:i}"
+		"fr"		"Vous avez déjà signalé un Freekill {purple}{1}{default} fois pendant ce tour."
+	}
+
+	"request_freedayvictim"
+	{
+		"fr"		"Donner à la victime un quartier libre au prochain round"
+	}
+
+	"request_killreason_title"
+	{
+		"#format"	"{1:N}"
+		"fr"		"Tu as tué {1}???"
+	}
+
+	"request_killreason_lostgame"
+	{
+		"fr"		"Il a perdu le match"
+	}
+
+	"request_killreason_rebel"
+	{
+		"fr"		"Il était un rebelle"
+	}
+
+	"request_killreason_brokerule"
+	{
+		"fr"		"Il a enfreint les règles"
+	}
+
+	"request_killreason_notfollow"
+	{
+		"fr"		"Il n'écoute pas pour dicter"
+	}
+
+	"request_killreason_sry"
+	{
+		"fr"		"Ma faute, je veux dire désolé"
+	}
+
+	"request_killreason_freekill"
+	{
+		"fr"		"Je l'ai tué"
+	}
+
+	"request_killreason_lostgame_chat"
+	{
+		"#format"	"{1:N},{2:N}"
+		"fr"		"Le garde {green}{1}{default} prétend {darkred}{2}{default} perdre le jeu"
+	}
+
+	"request_killreason_rebel_chat"
+	{
+		"#format"	"{1:N},{2:N}"
+		"fr"		"Le garde {green}{1}{default} prétend {darkred}{2}{default} était un rebelle"
+	}
+
+	"request_killreason_brokerule_chat"
+	{
+		"#format"	"{1:N},{2:N}"
+		"fr"		"Le garde {green}{1}{default} prétend {darkred}{2}{default} a enfreint les règles"
+	}
+
+	"request_killreason_notfollow_chat"
+	{
+		"#format"	"{1:N},{2:N}"
+		"fr"		"Le garde {green}{1}{default} prétend {darkred}{2}{default} n'a pas suivi les ordres"
+	}
+
+	"request_killreason_sry_chat"
+	{
+		"#format"	"{1:N},{2:N}"
+		"fr"		"Le garde {green}{1}{default} veux dire désolé pour avoir tué par erreur {darkred}{2}{default}"
+	}
+
+	"request_killreason_freekill_chat"
+	{
+		"#format"	"{1:N},{2:N}"
+		"fr"		"Le garde {green}{1}{default} avoue un freekill sur {darkred}{2}{default}"
+	}
+
+	"request_killreason_noanswer"
+	{
+		"#format"	"{1:N},{2:N}"
+		"fr"		"Le garde {green}{1}{default} n'a pas de déclaration sur la mort de {darkred}{2}{default}"
+	}
+
+	"request_capitulated"
+	{
+		"#format"	"{1:N}"
+		"fr"		"{purple}{1} {default}a {purple}capitulé!"
+	}
+
+	"request_close"
+	{
+		"fr"		"Exit"
+	}
+
+	"request_countdownstop"
+	{
+		"fr"		"{purple}STOP! {darkred}FIN!"
+	}
+
+	"request_countdownstop_nc"
+	{
+		"fr"		"STOP! FIN!"
+	}
+
+	"request_stopcountdown_nc"
+	{
+		"#format"	"{1:i}"
+		"fr"		"Stop/Fin in {1} secondes!"
+	}
+
+	"request_stopcountdown"
+	{
+		"#format"	"{1:i}"
+		"fr"		"Stop dans {purple}{1}{default} secondes!"
+	}
+
+}

@@ -1,0 +1,160 @@
+// Exported from SourceMod Translator
+// Date: 2019-08-21 13:44:07 UTC
+// Language: francais (fr)
+// 
+// To view other translations for this plugin, please visit:
+// http://translator.mitchdempsey.com/sourcemod_plugins/190
+//
+"Phrases"
+{
+
+	"cowboy_need"
+	{
+		"#format"	"{1:i},{2:N}"
+		"fr"		"{purple}{2}{default} a voté. {purple}{1}{default} vote(s) requis pour jouer au {darkred}Cowboy!"
+	}
+
+	"cowboy_rounds"
+	{
+		"#format"	"{1:i},{2:i}"
+		"fr"		"Round {purple}{1}{default} sur {purple}{2}."
+	}
+
+	"cowboy_twin_nc"
+	{
+		"fr"		"Un Prisonnier a survécu!"
+	}
+
+	"cowboy_voting"
+	{
+		"fr"		"Le vote pour le jeu du Cowboy est {purple}désactivé !"
+	}
+
+	"cowboy_setbywarden"
+	{
+		"fr"		"Le lancement du jeu du Cowboy est {purple}désactivé !"
+	}
+
+	"cowboy_minplayer"
+	{
+		"fr"		"Pour le jeu du Cowboy, il faut au moins {purple}un Gardien et un Prisonnier"
+	}
+
+	"cowboy_setbyadmin"
+	{
+		"fr"		"Le lancement du jeu du Cowboy par un admin est {purple}désactivé!"
+	}
+
+	"cowboy_ctwin_nc"
+	{
+		"fr"		"Un Gardien a survécu"
+	}
+
+	"cowboy_end"
+	{
+		"fr"		"Le jeu du {purple}Cowboy{default} est terminé."
+	}
+
+	"cowboy_next"
+	{
+		"fr"		"Le prochain round sera : Le jeu du {purple}Cowboy."
+	}
+
+	"cowboy_next_nc"
+	{
+		"fr"		"Le prochain round sera : Le jeu du Cowboy"
+	}
+
+	"cowboy_start"
+	{
+		"fr"		"Le jeu du {purple}Cowboy{default} a commencé!"
+	}
+
+	"cowboy_start_nc"
+	{
+		"fr"		"Le jeu du Cowboy a commencé!"
+	}
+
+	"cowboy_voted"
+	{
+		"fr"		"Tu as déjà voté pour le jeu du {purple}Cowboy!"
+	}
+
+	"cowboy_progress"
+	{
+		"#format"	"{1:s}"
+		"fr"		"L'évent {darkred}{1} {default}est {purple} déjà en cours !"
+	}
+
+	"cowboy_désactivé"
+	{
+		"fr"		"Cowboy est pour le moment {purple}désactivé !"
+	}
+
+	"cowboy_timeuntilstart_nc"
+	{
+		"#format"	"{1:i}"
+		"fr"		"{1} seconde(s) avant le début du round !"
+	}
+
+	"cowboy_info_line1"
+	{
+		"fr"		"Cowboy - Chaucn pour soi!"
+	}
+
+	"cowboy_info_line2"
+	{
+		"fr"		"Duel au pistolet"
+	}
+
+	"cowboy_info_line3"
+	{
+		"fr"		"Tu peux te déplacer pendant la phase d'invincibilité !"
+	}
+
+	"cowboy_info_line4"
+	{
+		"fr"		"Les règles du Jail Break ne s'appliquent pas pendant ce round !"
+	}
+
+	"cowboy_info_line5"
+	{
+		"fr"		"La dernière volonté est désactivé durant ce round!"
+	}
+
+	"cowboy_info_line6"
+	{
+		"fr"		"Restes dans la pièces des jails ! Lieux secrets interdits "
+	}
+
+	"cowboy_info_line7"
+	{
+		"fr"		"Ne sois pas un enculé ! "
+	}
+
+	"cowboy_wait"
+	{
+		"#format"	"{1:i}"
+		"fr"		"Tu dois attendre {purple}{1}{default} round(s) supplémentaire pour un Event Day!"
+	}
+
+	"cowboy_name"
+	{
+		"fr"		"Cowboy"
+	}
+
+	"cowboy_info_title"
+	{
+		"fr"		"Cowboy est maintenant actif !"
+	}
+
+	"cowboy_now_nc"
+	{
+		"fr"		"Le round Cowboy a maintenant commencé."
+	}
+
+	"cowboy_now"
+	{
+		"fr"		"Un round jeu du {purple}Cowboy{default} commence !"
+	}
+}

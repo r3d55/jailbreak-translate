@@ -1,0 +1,161 @@
+﻿// Exported from SourceMod Translator
+// Date: 2019-08-21 13:44:17 UTC
+// Language: English (en)
+// 
+// To view other translations for this plugin, please visit:
+// http://translator.mitchdempsey.com/sourcemod_plugins/195
+//
+"Phrases"
+{
+
+	"knifefight_need"
+	{
+		"#format"	"{1:i},{2:N}"
+		"fr"		"{purple}{2}{default} a voté. {purple}{1}{default} ton vote est requis pour {darkred}le combat à mort."
+	}
+
+	"knifefight_rounds"
+	{
+		"#format"	"{1:i},{2:i}"
+		"fr"		"Round {purple}{1}{default} de {purple}{2}"
+	}
+
+	"knifefight_twin_nc"
+	{
+		"fr"		"Un prisonnier a survécu !"
+	}
+
+	"knifefight_voting"
+	{
+		"fr"		"Le vote du combat au couteau est {purple}désactivé!"
+	}
+
+	"knifefight_setbywarden"
+	{
+		"fr"		"Le lancement du combat au couteau par le chef des gardiens est {purple}désactivé!"
+	}
+
+	"knifefight_setbyadmin"
+	{
+		"fr"		"SLe lancement du combat au couteau par un admin est {purple}désactivé!"
+	}
+
+	"knifefight_ctwin_nc"
+	{
+		"fr"		"Un gardien a survécu!"
+	}
+
+	"knifefight_minplayer"
+	{
+		"fr"		"Pour le combat au couteau il faut au moins {purple}un gardien et un prisonnier."
+	}
+
+	"knifefight_end"
+	{
+		"fr"		"{purple}Le combat au couteau{default} est fini."
+	}
+
+	"knifefight_next"
+	{
+		"fr"		"Le prochain round sera: {purple}Le combat au couteau."
+	}
+
+	"knifefight_next_nc"
+	{
+		"fr"		"TLe prochain round sera: Le combat au couteau."
+	}
+
+	"knifefight_start"
+	{
+		"fr"		"{purple}Le combat au couteau{default} a commencé!"
+	}
+
+	"knifefight_start_nc"
+	{
+		"fr"		"Le commbat au couteau a commencé!"
+	}
+
+	"knifefight_voted"
+	{
+		"fr"		"Tu as déjà voté pour {purple}Le combat au couteau!"
+	}
+
+	"knifefight_progress"
+	{
+		"#format"	"{1:s}"
+		"fr"		"TL'évenement {darkred}{1} {default}est {purple}déjà en cours!"
+	}
+
+	"knifefight_disabled"
+	{
+		"fr"		"Le combat au couteau est temporairement {purple}désactivé!"
+	}
+
+	"knifefight_timeuntilstart_nc"
+	{
+		"#format"	"{1:i}"
+		"fr"		"{1} secondes jusqu'au début du round!"
+	}
+
+	"knifefight_info_title"
+	{
+		"fr"		"FFA Combat de couteau - Free for All iest maintenant activé!"
+	}
+
+	"knifefight_info_line1"
+	{
+		"fr"		"Ne soyez pas surpris si vous êtes téléporté au Spawn CT"
+	}
+
+	"knifefight_info_line2"
+	{
+		"fr"		"IceSkates, 3e personne & Gravité basse activé."
+	}
+
+	"knifefight_info_line3"
+	{
+		"fr"		"Fuyez pendant la phase 'NoDamage'!"
+	}
+
+	"knifefight_info_line4"
+	{
+		"fr"		"Toutes les règles du Jailbreak ne s'applique pas sur ce round!"
+	}
+
+	"knifefight_info_line5"
+	{
+		"fr"		"La dernière requête est désactivé sur ce round!"
+	}
+
+	"knifefight_info_line6"
+	{
+		"fr"		"Tu dois rester dans la salle principale du Jail! Ne rentres pas dans les conduits ou les passages secrets!"
+	}
+
+	"knifefight_info_line7"
+	{
+		"fr"		"Ne sois pas un enculé!"
+	}
+
+	"knifefight_wait"
+	{
+		"#format"	"{1:i}"
+		"fr"		"Tu dois attendre {purple}{1}{default} de rounds avant un Jour Event"
+	}
+
+	"knifefight_name"
+	{
+		"fr"		"Combat au couteau, CA VA SAIGNER!!!"
+	}
+
+	"knifefight_now_nc"
+	{
+		"fr"		"Le round Combat au couteau demarre"
+	}
+
+	"knifefight_now"
+	{
+		"fr"		"Maintenant un {purple}combat au couteau{default} round commence."
+	}
+
+}

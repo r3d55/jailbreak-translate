@@ -1,0 +1,166 @@
+// Exported from SourceMod Translator
+// Date: 2019-08-21 13:44:14 UTC
+// Language: francais (fr)
+// 
+// To view other translations for this plugin, please visit:
+// http://translator.mitchdempsey.com/sourcemod_plugins/193
+//
+"Phrases"
+{
+
+	"hebattle_need"
+	{
+		"#format"	"{1:i},{2:N}"
+		"fr"		"{purple}{2}{default} a voté. {purple}{1}{default} vote(s) requis pour jouer à la {darkred}Bataille d'HE."
+	}
+
+	"hebattle_rounds"
+	{
+		"#format"	"{1:i},{2:i}"
+		"fr"		"Round {purple}{1}{default} sur {purple}{2}"
+	}
+
+	"hebattle_minplayer"
+	{
+		"fr"		"Pour une Bataille d'HE il faut au moins {purple}un Gardien"
+	}
+
+	"hebattle_minplayer"
+	{
+		"fr"		"Pour une Bataille d'HE il faut au moins {purple}un Gardien"
+	}
+
+	"hebattle_twin_nc"
+	{
+		"fr"		"Un Prisonnier a survécu !"
+	}
+
+	"hebattle_voting"
+	{
+		"fr"		"Les votes pour la Bataille d'HE est {purple}désactivée !"
+	}
+
+	"hebattle_setbywarden"
+	{
+		"fr"		"Set Bataille d'HE by Wardfr is {purple}désactivée "
+	}
+
+	"hebattle_setbyadmin"
+	{
+		"fr"		"Set Bataille d'HE by Admin is {purple}désactivée !"
+	}
+
+	"hebattle_ctwin_nc"
+	{
+		"fr"		"A Guard has survived!"
+	}
+
+	"hebattle_end"
+	{
+		"fr"		"{purple}Bataille d'HE{default} has frded."
+	}
+
+	"hebattle_next"
+	{
+		"fr"		"Le prochain round sera : {purple}Bataille d'HE."
+	}
+
+	"hebattle_next_nc"
+	{
+		"fr"		"Le prochain round sera : Bataille d'HE"
+	}
+
+	"hebattle_start"
+	{
+		"fr"		"La {purple}Bataille d'HE{default} a commencé !"
+	}
+
+	"hebattle_start_nc"
+	{
+		"fr"		"La Bataille d'HE a commencé !"
+	}
+
+	"hebattle_voted"
+	{
+		"fr"		"Tu as déjà voté pour la {purple}Bataille d'HE"
+	}
+
+	"hebattle_progress"
+	{
+		"#format"	"{1:s}"
+		"fr"		"L'Event {darkred}{1} {default} est {purple}déjà en cours !"
+	}
+
+	"hebattle_disabled "
+	{
+		"fr"		"La Bataille d'HE est actuellement {purple}désactivée !"
+	}
+
+	"hebattle_timeuntilstart_nc"
+	{
+		"#format"	"{1:i}"
+		"fr"		"{1} seconde(s) avant le lancement du round!"
+	}
+
+	"hebattle_info_title"
+	{
+		"fr"		"La Bataille d'HE est maintenant activée"
+	}
+
+	"hebattle_info_line1"
+	{
+		"fr"		"La Bataille d'HE avec faible gravité activée !"
+	}
+
+	"hebattle_info_line2"
+	{
+		"fr"		"Ne sois pas surpris !"
+	}
+
+	"hebattle_info_line3"
+	{
+		"fr"		"Les dommages sont désactivés jusqu'au début du round !"
+	}
+
+	"hebattle_info_line4"
+	{
+		"fr"		"Aucune règle du Jail Break n'est active pendant ce round !"
+	}
+
+	"hebattle_info_line5"
+	{
+		"fr"		"La Dernière Volonté est désactivée pendant ce round !"
+	}
+
+	"hebattle_info_line6"
+	{
+		"fr"		"Tu dois rester dans la salle des Jails ! Zones secrètes interdites !"
+	}
+
+	"hebattle_info_line7"
+	{
+		"fr"		"Ne sois pas un enculé !"
+	}
+
+	"hebattle_wait"
+	{
+		"#format"	"{1:i}"
+		"fr"		"Tu dois attendre {purple}{1}{default} round(s) pour un Event Day!"
+	}
+
+	"hebattle_name"
+	{
+		"fr"		"Bataille d'HE"
+	}
+
+	"hebattle_now_nc"
+	{
+		"fr"		"Un round Bataille d'HE commence."
+	}
+
+	"hebattle_now"
+	{
+		"fr"		"Un round {purple}Bataille d'HE{default} commence."
+	}
+
+}

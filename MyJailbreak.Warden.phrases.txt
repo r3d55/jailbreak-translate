@@ -1,0 +1,1102 @@
+// Exported from SourceMod Translator
+// Date: 2019-08-21 13:43:59 UTC
+// Language: English (en)
+// 
+// To view other translations for this plugin, please visit:
+// http://translator.mitchdempsey.com/sourcemod_plugins/178
+//
+"Phrases"
+{
+
+	"warden_new"
+	{
+		"#format"	"{1:N}"
+		"fr"		"{purple}{1}{default} est maintenant le chef des gardiens de cette prison."
+	}
+
+	"warden_new_nc"
+	{
+		"#format"	"{1:N}"
+		"fr"		"{1} est maintenant le chef des gardiens de cette prison."
+	}
+
+	"warden_playerdead"
+	{
+		"fr"		"Seulement les {purple}joueurs vivants{default} peuvent devenir chef des gardiens!"
+	}
+
+	"warden_ctsonly"
+	{
+		"fr"		"Seulement les {purple}CT{default} peuvent devenir chef des gardiens!"
+	}
+
+	"warden_exist"
+	{
+		"#format"	"{1:N}"
+		"fr"		"Le chef des gardiens actuel est: {purple}{1}{default}."
+	}
+
+	"warden_retire"
+	{
+		"#format"	"{1:N}"
+		"fr"		"{purple}{1}{default} a décidé de prendre sa retraite en tant que chef des gardiens. Vous pouvez maintenant choisir un nouveau chef des gardiens!"
+	}
+
+	"warden_retire_nc"
+	{
+		"#format"	"{1:N}"
+		"fr"		"{1} a décidé de prendre sa retraite en tant que chef des gardiens. Vous pouvez maintenant choisir un nouveau gardien!"
+	}
+
+	"warden_notwarden"
+	{
+		"fr"		"Vous devez être le {purple}chef des gardiens{default} pour utiliser cette commande!"
+	}
+
+	"warden_dead"
+	{
+		"fr"		"Le gardien est maintenant {darkred}mort{default}. Vous pouvez maintenant en choisir un nouveau."
+	}
+
+	"warden_nowarden"
+	{
+		"fr"		"Il n'y a actuellement pas de {purple}chef des gardiens{default}. Tape {green}!w{default} pour devenir chef des gardiens!"
+	}
+
+	"warden_nowarden_nc"
+	{
+		"fr"		"Il n'y a pas de chef des gardiens actuel. Tape !w pour devenir chef des gardiens!"
+	}
+
+	"warden_dead_nc"
+	{
+		"fr"		"Le chef des gardiens est maintenant mort. Vous pouvez maintenant en choisir un nouveau."
+	}
+
+	"warden_disconnected"
+	{
+		"fr"		"Le chef des gardiens s'est {purple}déconnecté{default}. Vous pouvez maintenant en choisir un nouveau."
+	}
+
+	"warden_disconnected_nc"
+	{
+		"fr"		"Le chef des gardiens s'est déconnecté. Vous pouvez maintenant en choisir un nouveau."
+	}
+
+	"warden_removed"
+	{
+		"#format"	"{1:N},{2:N}"
+		"fr"		"Admin: {purple}{1}{default} a renvoyé le chef des gardiens: {purple}{2}"
+	}
+
+	"warden_removed_nc"
+	{
+		"#format"	"{1:N},{2:N}"
+		"fr"		"Admin: {1} a renvoyé le chef des gardiens: {2}"
+	}
+
+	"warden_noexist"
+	{
+		"fr"		"Il n'y a pas de {purple} chef des gardiens!"
+	}
+
+	"warden_disabled"
+	{
+		"fr"		"Le poste de chef des gardiens est actuellement {purple}désactivé{default}!"
+	}
+
+	"warden_nobecome"
+	{
+		"fr"		"Un nouveau chef des gardiens sera choisi {purple}au hasard{default}!"
+	}
+
+	"warden_adminset"
+	{
+		"#format"	"{1:N}"
+		"fr"		"Admin: {purple}{1}{default} a défini le chef des gardiens!"
+	}
+
+	"warden_randomwarden"
+	{
+		"fr"		"Un gardien au hasard a été sélectionné!"
+	}
+
+	"warden_dooropen"
+	{
+		"fr"		"Le chef des gardiens a {purple}ouvert{default} les cellules."
+	}
+
+	"warden_doorclose"
+	{
+		"fr"		"Le chef des gardiens a {purple}fermée{default} les cellules."
+	}
+
+	"warden_openauto"
+	{
+		"fr"		"Les portes des cellules {purple}ouvre automatiquement!{default}"
+	}
+
+	"warden_opentime"
+	{
+		"fr"		"Maintenant les {purple}portes de cellules{default} devrait être ouvert!"
+	}
+
+	"warden_ffison"
+	{
+		"fr"		"Friendly fire est {purple}activé!"
+	}
+
+	"warden_ffisoff"
+	{
+		"fr"		"Friendly fire est{purple}désactivé!"
+	}
+
+	"warden_voting"
+	{
+		"fr"		"Le vote pour lancer un kick du {purple}chef des gardiens{default} est actuellement désactivé!"
+	}
+
+	"warden_countdowncanceled"
+	{
+		"fr"		"Le compte à rebours est {darkred}annulé!"
+	}
+
+	"warden_startcountdown_nc"
+	{
+		"#format"	"{1:i}"
+		"fr"		"Commencer dans {1} secondes!"
+	}
+
+	"warden_stopcountdown_nc"
+	{
+		"#format"	"{1:i}"
+		"fr"		"Arrêt/Fin dans {1} secondes!"
+	}
+
+	"warden_startcountdown"
+	{
+		"#format"	"{1:i}"
+		"fr"		"Commencer dans {purple}{1}{default} secondes!"
+	}
+
+	"warden_stopcountdown"
+	{
+		"#format"	"{1:i}"
+		"fr"		"Stop dans {purple}{1}{default} secondes!"
+	}
+
+	"warden_startcountdownhint"
+	{
+		"fr"		"Attention! Le chef des gardiens {purple}a commencé un compte à rebours!!"
+	}
+
+	"warden_startcountdownhint_nc"
+	{
+		"fr"		"Attention! Le chef des gardiens a commencé un compte à rebours!!"
+	}
+
+	"warden_startstopcountdownhint"
+	{
+		"fr"		"Attention! Le chef des gardiens {purple}a commencé un compte à rebours START / STOP!"
+	}
+
+	"warden_startstopcountdownhint_nc"
+	{
+		"fr"		"Attention! Le chef des gardiens a commencé un compte à rebours START / STOP!"
+	}
+
+	"warden_stopcountdownhint"
+	{
+		"fr"		"Attention! Le chef des gardiens {purple}a commencé un compte à rebours STOP!"
+	}
+
+	"warden_stopcountdownhint_nc"
+	{
+		"fr"		"Attention! Le chef des gardiens a commencé un compte à rebours STOP! Dépêchez-vous!"
+	}
+
+	"warden_countdownstart"
+	{
+		"fr"		"{purple}GO! {darkred}START!"
+	}
+
+	"warden_countdownstop"
+	{
+		"fr"		"{purple}STOP! {darkred}FIN!"
+	}
+
+	"warden_countdownrunning"
+	{
+		"fr"		"Un compte à rebours est {purple}already en cours!"
+	}
+
+	"warden_countdownstart_nc"
+	{
+		"fr"		"GO! START!"
+	}
+
+	"warden_countdownstop_nc"
+	{
+		"fr"		"STOP! FIN!"
+	}
+
+	"warden_noblockoff"
+	{
+		"fr"		"Le chef des gardiens a basculé {purple}NoBlock en off!"
+	}
+
+	"warden_noblockon"
+	{
+		"fr"		"Le chef des gardiens a basculé {purple}NoBlock en actif!"
+	}
+
+	"warden_need"
+	{
+		"#format"	"{1:i}"
+		"fr"		"{1} votes requis pour {darkred}Kick Le chef des gardiens!"
+	}
+
+	"warden_voted"
+	{
+		"fr"		"Vous avez déjà voté contre l'actuel {purple}chef des gardiens{default}!"
+	}
+
+	"warden_israndom"
+	{
+		"#format"	"{1:N}"
+		"fr"		"{1} a été choisi au hasard!"
+	}
+
+	"warden_gunplant"
+	{
+		"#format"	"{1:N},{2:s}"
+		"fr"		"Gardien {purple}{1}{default} a lâché l'arme {green}{2}!"
+	}
+
+	"warden_gunplant_nc"
+	{
+		"#format"	"{1:N},{2:s}"
+		"fr"		"Gardien {1} a lâché l'arme {2}!"
+	}
+
+	"warden_noplant"
+	{
+		"fr"		"Il est {darkred}INTERDIT{default} que les gardiens lache des armes!"
+	}
+
+	"warden_choose"
+	{
+		"fr"		"Sélectionner un joueur"
+	}
+
+	"warden_remove"
+	{
+		"fr"		"Supprimer le chef des gardiens actuel?"
+	}
+
+	"warden_laseron"
+	{
+		"fr"		"Laser {purple}est autorisé!"
+	}
+
+	"warden_laseroff"
+	{
+		"fr"		"Laser {purple}est désactivé"
+	}
+
+	"warden_draweron"
+	{
+		"fr"		"Drawer {purple}autorisé"
+	}
+
+	"warden_draweroff"
+	{
+		"fr"		"Drawer {purple}désactivé"
+	}
+
+	"warden_drawert"
+	{
+		"fr"		"Basculer Drawer pour les terroristes"
+	}
+
+	"warden_tdraweron"
+	{
+		"fr"		"Drawer pour les terroristes est {purple}autorisé"
+	}
+
+	"warden_tdraweroff"
+	{
+		"fr"		"Drawer pour les terroristes est {purple}désactivé"
+	}
+
+	"warden_marker_set"
+	{
+		"#format"	"{1:s}"
+		"fr"		"{1} Marker Set!"
+	}
+
+	"warden_marker_remove"
+	{
+		"#format"	"{1:s}"
+		"fr"		"{1} Marker Removed!"
+	}
+
+	"warden_laser"
+	{
+		"#format"	"{1:s}"
+		"fr"		"{1} Laser Pointer is now equipped!"
+	}
+
+	"warden_drawer"
+	{
+		"#format"	"{1:s}"
+		"fr"		"{1} Drawer equipt!"
+	}
+
+	"warden_marker_faraway"
+	{
+		"#format"	"{1:s}"
+		"fr"		"Votre {1} Marker a été éliminé! Tu en étais loin."
+	}
+
+	"warden_marker_title"
+	{
+		"fr"		"Marker Color"
+	}
+
+	"warden_laser_title"
+	{
+		"fr"		"Laser Pointer Color"
+	}
+
+	"warden_drawer_title"
+	{
+		"fr"		"Drawer Color"
+	}
+
+	"warden_laser_off"
+	{
+		"fr"		"Disable Laser Pointer"
+	}
+
+	"warden_drawer_off"
+	{
+		"fr"		"Deactivate Drawer"
+	}
+
+	"warden_rainbow"
+	{
+		"fr"		"Rainbow"
+	}
+
+	"warden_red"
+	{
+		"fr"		"Red"
+	}
+
+	"warden_blue"
+	{
+		"fr"		"Blue"
+	}
+
+	"warden_green"
+	{
+		"fr"		"Green"
+	}
+
+	"warden_orange"
+	{
+		"fr"		"Orange"
+	}
+
+	"warden_yellow"
+	{
+		"fr"		"Yellow"
+	}
+
+	"warden_white"
+	{
+		"fr"		"White"
+	}
+
+	"warden_cyan"
+	{
+		"fr"		"Cyan"
+	}
+
+	"warden_magenta"
+	{
+		"fr"		"Magenta"
+	}
+
+	"warden_range"
+	{
+		"fr"		"La position est hors de portée!"
+	}
+
+	"warden_wrong"
+	{
+		"fr"		"Quelque chose a mal tourné! Veuillez réessayer!"
+	}
+
+	"warden_mute"
+	{
+		"#format"	"{1:N},{2:N},{3:i}"
+		"fr"		"{2} a été mis en sourdine par le chef des gardiens {1} pour {3} secondes!"
+	}
+
+	"warden_muteend"
+	{
+		"#format"	"{1:N},{2:N}"
+		"fr"		"{2} a été mis en sourdine par le chef des gardiens {1} pour le reste du round!"
+	}
+
+	"warden_unmute"
+	{
+		"#format"	"{1:N}"
+		"fr"		"{1} a été unmuted."
+	}
+
+	"warden_cdmenu_title"
+	{
+		"fr"		"Menu Compte à rebours"
+	}
+
+	"warden_cdmenu_start"
+	{
+		"fr"		"Begin a START Countdown (10 sec)"
+	}
+
+	"warden_cdmenu_stop"
+	{
+		"fr"		"Begin a STOP Countdown (20 sec)"
+	}
+
+	"warden_cdmenu_startstop"
+	{
+		"fr"		"Set a Start/Stop Countdown"
+	}
+
+	"warden_cdmenu_title2"
+	{
+		"fr"		"Time Between Start & Stop"
+	}
+
+	"warden_time_title"
+	{
+		"fr"		"Combien de temps?"
+	}
+
+	"warden_allt"
+	{
+		"fr"		"Tous les prisonniers"
+	}
+
+	"warden_roundend"
+	{
+		"fr"		"Jusqu'au bout du round"
+	}
+
+	"warden_15"
+	{
+		"fr"		"15 Secondes"
+	}
+
+	"warden_30"
+	{
+		"fr"		"30 Secondes"
+	}
+
+	"warden_45"
+	{
+		"fr"		"45 Secondes"
+	}
+
+	"warden_60"
+	{
+		"fr"		"1 Minute"
+	}
+
+	"warden_90"
+	{
+		"fr"		"1 Minute 30 secondes"
+	}
+
+	"warden_120"
+	{
+		"fr"		"2 Minutes"
+	}
+
+	"warden_180"
+	{
+		"fr"		"3 Minutes"
+	}
+
+	"warden_300"
+	{
+		"fr"		"5 Minutes"
+	}
+
+	"warden_math_correct"
+	{
+		"#format"	"{1:N},{2:i}"
+		"fr"		"{1} a donné une{green} bonne réponse!{default} La réponse était {purple}{2}!"
+	}
+
+	"warden_math_time"
+	{
+		"#format"	"{1:i}"
+		"fr"		"Fin du temps! Pas de réponse. {purple}La réponse était {1}"
+	}
+
+	"warden_startmathquiz"
+	{
+		"fr"		"Attention! Le chef des gardiens a commencé un {purple}Quiz de Math!"
+	}
+
+	"warden_startmathquiz_nc"
+	{
+		"fr"		"Attention! Le chef des gardiens a commencé un Quiz de Math!"
+	}
+
+	"warden_sure"
+	{
+		"fr"		"Êtes-vous sûr?"
+	}
+
+	"warden_yes"
+	{
+		"fr"		"Oui"
+	}
+
+	"warden_no"
+	{
+		"fr"		"Non"
+	}
+
+	"warden_minrandom"
+	{
+		"fr"		"Il ne reste qu'un prisonnier (non rebelle)!"
+	}
+
+	"warden_nomuted"
+	{
+		"fr"		"Il n'y a pas de prisonnier muet!"
+	}
+
+	"warden_mute_title"
+	{
+		"fr"		"Mute Menu"
+	}
+
+	"warden_menu_mute"
+	{
+		"fr"		"Mute un prisonnier"
+	}
+
+	"warden_menu_unmute"
+	{
+		"fr"		"Unmute un prisonnier"
+	}
+
+	"warden_cuffs"
+	{
+		"fr"		"Utilisez le Taser comme menottes!"
+	}
+
+	"warden_cuffson"
+	{
+		"#format"	"{1:N},{2:N}"
+		"fr"		"{purple}{1}{default} Arrêté {green}{2}{default}!"
+	}
+
+	"warden_cuffsoff"
+	{
+		"#format"	"{1:N},{2:N}"
+		"fr"		"{purple}{1}{default} a supprimé {green}{2}'s{default} les menottes."
+	}
+
+	"warden_cuffsgot"
+	{
+		"#format"	"{1:i}"
+		"fr"		"Vous avez seulement {green}{1}{default} handcuff(s) left!"
+	}
+
+	"warden_bulletmarkoff"
+	{
+		"fr"		"Les étincelles d'impact de balle sont maintenant {purple}désactivé!"
+	}
+
+	"warden_bulletmarkon"
+	{
+		"fr"		"Les étincelles d'impact de balle sont maintenant {purple}activé!"
+	}
+
+	"warden_extend"
+	{
+		"#format"	"{1:N},{2:i}"
+		"fr"		"Le chef des gardiens {1} a prolongé la durée du round de {2} minutes."
+	}
+
+	"warden_backstab"
+	{
+		"fr"		"La protection Backstab est désormais activée."
+	}
+
+	"warden_extendtimes"
+	{
+		"#format"	"{1:i}"
+		"fr"		"Tu as déjà {purple}prolongé le round {1} fois{default} dans ce tour!"
+	}
+
+	"warden_close"
+	{
+		"fr"		"Exit"
+	}
+
+	"warden_gotpaperclip"
+	{
+		"#format"	"{1:i}"
+		"fr"		"Vous avez secrètement {1} trombone (s) dans votre poche. Presse la touche action (E)"
+	}
+
+	"warden_brokepaperclip"
+	{
+		"fr"		"Tu as cassé ton trombone!"
+	}
+
+	"warden_unlock"
+	{
+		"fr"		"Vous avez crocheté vos menottes!"
+	}
+
+	"warden_painter"
+	{
+		"#format"	"{1:s}"
+		"fr"		"{1} Painter est maintenant équipé!!"
+	}
+
+	"warden_painter_title"
+	{
+		"fr"		"Painter Color"
+	}
+
+	"warden_painter_off"
+	{
+		"fr"		"Deactivate Painter"
+	}
+
+	"warden_painteron"
+	{
+		"fr"		"Painter {purple}is enabled"
+	}
+
+	"warden_painteroff"
+	{
+		"fr"		"Painter {purple}is disabled"
+	}
+
+	"warden_paintert"
+	{
+		"fr"		"Toggle Painter for Prisoners"
+	}
+
+	"warden_tpainteron"
+	{
+		"fr"		"The Painter for Prisoners is {purple}enabled!"
+	}
+
+	"warden_tpainteroff"
+	{
+		"fr"		"The Painter for Prisoners is {purple}disabled!"
+	}
+
+	"warden_disarmed"
+	{
+		"#format"	"{1:N},{2:N}"
+		"fr"		"{1} a été désarmé par {2}."
+	}
+
+	"warden_lostgun"
+	{
+		"fr"		"Vous avez été blessé au bras! Tu as perdu ton arme!"
+	}
+
+	"warden_remaining"
+	{
+		"fr"		"Restant"
+	}
+
+	"warden_dooropen_unavailable"
+	{
+		"fr"		"{darkred}Cette carte ne prend pas en charge l'ouverture de portes à distance. {default}Vous {purple}devez ouvrir manuellement les portes!"
+	}
+
+	"warden_doorclose_unavailable"
+	{
+		"fr"		"{darkred}Cette carte ne prend pas en charge la fermeture des portes à distance. {default}Vous {purple}devez fermer manuellement les portes!"
+	}
+
+	"warden_openauto_unavailable"
+	{
+		"fr"		"{darkred}Cette carte ne prend pas en charge l'ouverture automatique des portes. {default}Le chef des gardiens {purple}doit ouvrir manuellement les portes!"
+	}
+
+	"warden_menu_muteall"
+	{
+		"fr"		"Mute tous les prisonniers"
+	}
+
+	"warden_menu_unmuteall"
+	{
+		"fr"		"Unmute tous les prisonniers"
+	}
+
+	"warden_votesuccess"
+	{
+		"fr"		"Le vote pour {purple}kick le chef des gardiens{default} a réussi!"
+	}
+
+	"warden_mutedefault"
+	{
+		"fr"		"Tous les prisonniers sont mute par default."
+	}
+
+	"warden_rebel_title"
+	{
+		"fr"		"Menu des rebelles"
+	}
+
+	"warden_rebel_mark"
+	{
+		"fr"		"Marquer un joueur comme rebelle"
+	}
+
+	"warden_rebel_unmark"
+	{
+		"fr"		"Supprimer un joueur des rebelles"
+	}
+
+	"warden_talkover"
+	{
+		"fr"		"Le chef des gardiens parle, vous avez été mute."
+	}
+
+	"warden_info_counter"
+	{
+		"fr"		"Prisonnier en vue:"
+	}
+
+	"warden_counter"
+	{
+		"#format"	"{1:i}"
+		"fr"		"Il y a {1} prisonnier dans votre vue"
+	}
+
+	"warden_deputy_playerdead"
+	{
+		"fr"		"Seulement les {purple}joueurs vivants{default} peuvent devenir adjoint!"
+	}
+
+	"warden_deputy_ctsonly"
+	{
+		"fr"		"Seulement les {purple}CT{default} peuvent devenir adjoint!"
+	}
+
+	"warden_deputy_exist"
+	{
+		"#format"	"{1:N}"
+		"fr"		"L'adjoint actuel est: {purple}{1}{default}."
+	}
+
+	"warden_deputy_disabled"
+	{
+		"fr"		"l'adjoint est actuellement {purple}désactivé{default}!"
+	}
+
+	"warden_deputy_nobecome"
+	{
+		"fr"		"Tu ne peux pas devenir adjoint, le gardien doit te choisir"
+	}
+
+	"warden_deputy_retire"
+	{
+		"#format"	"{1:N}"
+		"fr"		"{purple}{1}{default} a décidé de prendre sa retraite en tant que adjoint. Vous pouvez maintenant choisir un nouveau adjoint!"
+	}
+
+	"warden_deputy_retire_nc"
+	{
+		"#format"	"{1:N}"
+		"fr"		"{1} a décidé de prendre sa retraite en tant que adjoint. Vous pouvez maintenant choisir un nouveau adjoint!"
+	}
+
+	"warden_deputy_fired_nc"
+	{
+		"#format"	"{1:N},{2:N}"
+		"fr"		"chef des gardiens: {1} a mis à la porte l'adjoint: {2}"
+	}
+
+	"warden_deputy_fired"
+	{
+		"#format"	"{1:N},{2:N}"
+		"fr"		"chef des gardiens: {purple}{1}{default} a mis à la porte l'adjoint: {purple}{2}"
+	}
+
+	"warden_deputy_dead_nc"
+	{
+		"fr"		"L'adjoint est maintenant mort. Vous pouvez maintenant en choisir un nouveau."
+	}
+
+	"warden_deputy_dead"
+	{
+		"fr"		"L'adjoint est maintenant {darkred}mort{default}. Vous pouvez maintenant en choisir un nouveau."
+	}
+
+	"warden_deputy_disconnected"
+	{
+		"fr"		"L'adjoint s'est {purple}déconnecté{default}. Vous pouvez maintenant en choisir un nouveau."
+	}
+
+	"warden_deputy_disconnected_nc"
+	{
+		"fr"		"L'adjoint s'est déconnecté. Vous pouvez maintenant en choisir un nouveau."
+	}
+
+	"warden_deputy_new_nc"
+	{
+		"#format"	"{1:N}"
+		"fr"		"{1} est maintenant l'adjoint du chef des gardiens."
+	}
+
+	"warden_deputy_new"
+	{
+		"#format"	"{1:N}"
+		"fr"		"{purple}{1}{default} est maintenant l'adjoint du chef des gardiens."
+	}
+
+	"warden_deputy_set"
+	{
+		"fr"		"En tant que {purple}chef des gardiens{default} vous pouvez définir un adjoint. tapez {green}!deputy{default} pour définir un adjoint!"
+	}
+
+	"warden_deputy_become"
+	{
+		"fr"		"Il n'y a actuellement pas {purple}d'adjoint{default}. tapez {green}!deputy{default} pour devenir adjoint!"
+	}
+
+	"warden_picking"
+	{
+		"fr"		"Picking"
+	}
+
+	"warden_pickingaborted"
+	{
+		"fr"		"Picking aborted"
+	}
+
+	"warden_givefreeday"
+	{
+		"fr"		"Offrez un quartier libre à:"
+	}
+
+	"warden_havefreeday"
+	{
+		"#format"	"{1:N}"
+		"fr"		"{1} a maintenant un quartier libre!"
+	}
+
+	"warden_freeday_title"
+	{
+		"#format"	"{1:N}"
+		"fr"		"Quartier libre pour {1}"
+	}
+
+	"warden_freedaynext"
+	{
+		"fr"		"Prochain Round"
+	}
+
+	"warden_freedaynow"
+	{
+		"fr"		"Ce Round"
+	}
+
+	"warden_freedayforyou"
+	{
+		"fr"		"Vous obtenez un {purple}Quartier libre{default} pour le prochain round"
+	}
+
+	"warden_personalfreeday"
+	{
+		"#format"	"{1:N}"
+		"fr"		"{green}{1}{default} Obtient un {purple}Quartier libre{default} pour le prochain round"
+	}
+
+	"warden_cooldown"
+	{
+		"#format"	"{1:i}"
+		"fr"		"Tu as un {purple}warden cooldown{default}. Wait {green}{1}{default} rounds"
+	}
+
+	"warden_limit"
+	{
+		"#format"	"{1:i},{2:i}"
+		"fr"		"Vous avez joué {purple}{1} rounds{default} comme chef des gardiens. Attendez {green}{2}{default} rounds"
+	}
+
+	"warden_wait"
+	{
+		"#format"	"{1:i}"
+		"fr"		"En tant que {green}chef des gardiens lors du dernier round{default} vous devez attendre {purple}{1} secondes{default} pour redevenir chef des gardiens."
+	}
+
+	"warden_deputy_removed"
+	{
+		"#format"	"{1:N},{2:N}"
+		"fr"		"Admin: {purple}{1}{default} a mis à la porte l'adjoint: {purple}{2}"
+	}
+
+	"warden_deputy_removed_nc"
+	{
+		"#format"	"{1:N},{2:N}"
+		"fr"		"Admin: {1} a mis à la porte l'adjoint: {2}"
+	}
+
+	"warden_steamgroup"
+	{
+		"fr"		"Impossible de jouer en tant que chef des gardiens, vous devez d'abord rejoindre notre groupe Steam"
+	}
+
+	"warden_rankme"
+	{
+		"#format"	"{1:i}"
+		"fr"		"Vous avez besoin d'au moins {1} RankMe Points pour jouer en tant que chef des gardiens"
+	}
+
+	"warden_reputation"
+	{
+		"#format"	"{1:i}"
+		"fr"		"Vous avez besoin d'au moins {1} Reputation Points pour jouer en tant que chef des gardiens"
+	}
+
+	"warden_stamm"
+	{
+		"#format"	"{1:i}"
+		"fr"		"Vous avez besoin d'au moins {1} Stamm Points pour jouer en tant que chef des gardiens"
+	}
+
+	"warden_removefreeday"
+	{
+		"fr"		"Supprimer Quartier libre de:"
+	}
+
+	"warden_removefreedayforyou"
+	{
+		"fr"		"Votre {purple}Quatier libre{default} a été supprimé."
+	}
+
+	"warden_removepersonalfreeday"
+	{
+		"#format"	"{1:N}"
+		"fr"		"{green}{1}s{default} {purple}Quatier libre{default} a été supprimé"
+	}
+
+	"warden_noplayer"
+	{
+		"fr"		"Aucun joueur à choisir"
+	}
+
+	"warden_lvlranks"
+	{
+		"#format"	"{1:i}"
+		"fr"		"Vous avez besoin d'au moins le niveau {1} to play as warden"
+	}
+
+	"warden_mostactive"
+	{
+		"#format"	"{1:s}"
+		"fr"		"Vous devez avoir joué au moins {1} pour jouer en tant que gardien."
+	}
+
+	"warden_mostactive_guard"
+	{
+		"#format"	"{1:s}"
+		"fr"		"Vous devez avoir joué au moins {1} comme gardien pour jouer en tant que chef des gardiens."
+	}
+
+	"warden_mostactive_terror"
+	{
+		"#format"	"{1:s}"
+		"fr"		"Vous devez avoir joué au moins {1} comme terroriste pour jouer en tant que gardien."
+	}
+
+	"warden_novalid"
+	{
+		"fr"		"Impossible de trouver un {green}non rebelle{default} prisonnier en vue."
+	}
+
+	"warden_withhold_lr"
+	{
+		"fr"		"Le chef des gardiens {purple}retient{default} votre dernière demande."
+	}
+
+	"warden_withhold_on"
+	{
+		"fr"		"Le chef des gardiens {purple}retient{default} votre dernière demande."
+	}
+
+	"warden_withhold_off"
+	{
+		"fr"		"Le chef des gardiens {purple}a publié{default} votre dernière demande."
+	}
+
+	"warden_apply_time"
+	{
+		"#format"	"{1:i}"
+		"fr"		"{1} secondes pour postuler chef des gardiens"
+	}
+
+	"warden_no_applications"
+	{
+		"fr"		"Personne n'a posé sa candidature au poste de chef des gardiens. {purple}Un chef des gardiens au hasard{default} a été choisi."
+	}
+
+	"warden_one_application"
+	{
+		"fr"		"Une seule demande pour le chef des gardiens."
+	}
+
+	"warden_apply_time_over"
+	{
+		"fr"		"Le temps d'application est terminé. \n Votez pour votre nouveau chef des gardiens!"
+	}
+
+	"warden_vote_applicants"
+	{
+		"fr"		"Le vote s'est terminé par 50/50! Un gardien au hasard a été choisi."
+	}
+
+	"warden_vote_won"
+	{
+		"#format"	"{1:N}"
+		"fr"		"{purple}{1}{default} avec le plus de votes devient votre {purple}nouveau chef des gardiens."
+	}
+
+	"warden_apply_added"
+	{
+		"#format"	"{1:N}"
+		"fr"		"{purple}{1}{default} postule en tant que chef des gardiens"
+	}
+
+	"warden_apply_removed"
+	{
+		"fr"		"Vous avez été retiré de la liste des demandes du chef des gardiens."
+	}
+
+	"warden_cooldown_reset"
+	{
+		"fr"		"Le temps de recharge de tous les gardiens a été réinitialisé."
+	}
+
+}
