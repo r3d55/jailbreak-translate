@@ -1,7 +1,5 @@
 // Exported from SourceMod Translator
 // Date: 2019-08-21 13:44:12 UTC
-// Language: Français
-// Pour Supreme-Elite
 // To view other translations for this plugin, please visit:
 // http://translator.mitchdempsey.com/sourcemod_plugins/191
 //
@@ -11,7 +9,6 @@
 	"drunk_need"
 	{
 		"#format"	"{1:i},{2:N}"
-		"fr"		"{purple}{2}{default} à voté. {purple}{1}{default} vote(s) requi(s) pour jouer au {darkred}Drunken Day{default}."
 	}
 
 	"drunk_rounds"
@@ -22,84 +19,91 @@
 
 	"drunk_twin_nc"
 	{
-		"fr"		"Un prisonnier a {green}survécu{default}."
+		"fr"		"Un Prisonnier à survécu."
 	}
 
 	"drunk_voting"
 	{
-		"fr"		"Le vote pour le {darkred}Drunken Day {default}est {purple}désactivé{default}!"
+		"fr"		"Les votes pour Drunken Day sont {purple}desactivés!"
 	}
 
 	"drunk_setbywarden"
 	{
-		"fr"		"Le lancement du {darkred}Drunken Game {default}par un Gardien est {purple}désactivé{default}!"
+		"fr"		"Le lancement du Drunken Day par un Gardien est {purple}desactivé"
 	}
 
 	"drunk_setbyadmin"
 	{
-		"fr"		"Le lancement du {darkred}Drunken Game {default}par un Admin est {purple}désactivé{default}!"
+		"fr"		"Le lancement du Drunken Day par un admin est {purple}désactivé !"
 	}
 
 	"drunk_ctwin_nc"
 	{
-		"fr"		"Un gardien a {green}survécu{default}."
+		"fr"		"Un Gardien a survécu!"
 	}
 
 	"drunk_end"
 	{
-		"fr"		"Le {darkred}Drunken Day{default} est terminé !"
+		"fr"		"Le jeu du {purple}Drunken Day{default} est terminé."
 	}
 
 	"drunk_next"
 	{
-		"fr"		"Le prochain round sera un : {darkred}Drunken Day{default}."
+
+		"fr"		"Le prochain round sera : Le jeu du {purple}Drunken Day."
 	}
 
 	"drunk_next_nc"
 	{
-		"fr"		"Le prochain round sera un : Drunken Day."
+
+		"fr"		"Le prochain round sera : Le jeu du Drunken Day."
 	}
 
 	"drunk_start"
 	{
-		"fr"		"Le {darkred}Drunken Day{default} a commencé !"
+		"fr"		"Le jeu du {purple}Drunken Day{default} a commencé!"
 	}
 
 	"drunk_start_nc"
 	{
-		"fr"		"Le Drunken Day a commencé !"
+		"fr"		"Le jeu du Drunken Day à commencé!"
 	}
 
 	"drunk_voted"
 	{
-		"fr"		"Vous avez déjà voté pour le {darkred}Drunken Day {default}!"
+
+		"fr"		"Tu as déjà voté pour le jeu du {purple}Drunken Day!"
+
 	}
 
 	"drunk_progress"
 	{
 		"#format"	"{1:s}"
-		"fr"		"L'évènement {darkred}{1} {default}est déjà en cours !"
+
+		"fr"		"L'évent {darkred}{1} {default}est {purple} déjà en cours!"
 	}
 
 	"drunk_disabled"
 	{
-		"fr"		"Le {darkred}Drunken Day {default}est actuellement {purple}désactivé !"
+		"fr"		"Drunken Day est pour le moment {purple}désactivé!"
 	}
 
 	"drunk_timeuntilstart_nc"
 	{
 		"#format"	"{1:i}"
-		"fr"		"{purple}{1} seconde(s) {default}avant le début du round !"
+		"fr"		"{1} seconde(s) avant le début du round!"
 	}
 
 	"drunk_info_title"
 	{
-		"fr"		"Le {darkred}Drunken Day {default}est maintenant {green}activé {default}!"
+
+		"fr"		"Drunken Day est maintenant actif!"
 	}
 
 	"drunk_info_line1"
 	{
-		"fr"		"Le Drunken Day est maintenant activé !"
+
+		"fr"		"Drunken Day est maintenant actif!"
 	}
 
 	"drunk_info_line2"
@@ -114,28 +118,33 @@
 
 	"drunk_info_line4"
 	{
-		"fr"		"Les règles habituelles du jailbreak ne s'appliquent pas lors de ce round !"
+
+		"fr"		"Les règles du Jail Break ne s'appliquent pas pendant ce round !"
 	}
 
 	"drunk_info_line5"
 	{
-		"fr"		"La dernière volonté est désactivé lors de ce round !"
+
+		"fr"		"La dernière volonté est désactivé durant ce round!"
 	}
 
 	"drunk_info_line6"
 	{
-		"fr"		"Tout le monde est autorisé à se rendre n'importe où sur la carte (Quartier Libre)!"
+
+		"fr"		"Tout le monde est autorisé à aller n'importe où!"
 	}
 
 	"drunk_info_line7"
 	{
-		"fr"		"Ne soyez pas un connard !"
+
+		"fr"		"Ne sois pas un enculé!"
 	}
 
 	"drunk_wait"
 	{
 		"#format"	"{1:i}"
-		"fr"		"Vous devez attendre {purple}{1}{default} round(s) de plus pour une journée d'event !"
+
+		"fr"		"Tu dois attendre {purple}{1}{default} round(s) supplémentaire pour un Event Day!"
 	}
 
 	"drunk_name"
@@ -145,12 +154,13 @@
 
 	"drunk_now_nc"
 	{
-		"fr"		"Maintenant, un round de Drunk commence."
+
+		"fr"		"Le round Drunken Day a maintenant commencé."
 	}
 
 	"drunk_now"
 	{
-		"fr"		"Maintenant, un round de {darkred}Drunk {default}commence."
+		"fr"		"Un round jeu du {purple}Drunken Day{default} commence !"
 	}
 
 }
