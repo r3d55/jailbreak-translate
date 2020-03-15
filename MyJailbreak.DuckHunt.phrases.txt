@@ -1,6 +1,6 @@
-// Exported from SourceMod Translator
+/ Exported from SourceMod Translator
 // Date: 2019-08-21 13:44:16 UTC
-// Language: English (en)
+// Language: French (fr)
 // 
 // To view other translations for this plugin, please visit:
 // http://translator.mitchdempsey.com/sourcemod_plugins/186
@@ -11,151 +11,151 @@
 	"duckhunt_rounds"
 	{
 		"#format"	"{1:i},{2:i}"
-		"en"		"Round {purple}{1}{default} of {purple}{2}"
+		"fr"		"Round {purple}{1}{default} sur {purple}{2}"
 	}
 
 	"duckhunt_need"
 	{
 		"#format"	"{1:i},{2:N}"
-		"en"		"{purple}{2}{default} has voted. {purple}{1}{default} vote(s) required to play {darkred}Duckhunt."
+		"fr"		"{{purple}{2}{default} a voté. {purple}{1}{default} vote(s) requis pour jouer au {darkred}Duckhunt."
 	}
 
 	"duckhunt_voting"
 	{
-		"en"		"Voting for Duckhunt is {purple}disabled!"
+		"fr"		"Le vote pour le jeu du Duckhunt est {purple}désactivé !"
 	}
 
 	"duckhunt_setbywarden"
 	{
-		"en"		"Set Duckhunt by Warden is {purple}disabled!"
+		"fr"		"Le lancement du jeu du Duckhunt est {purple}désactivé !"
 	}
 
 	"duckhunt_setbyadmin"
 	{
-		"en"		"Set Duckhunt by Admin is {purple}disabled!"
+		"fr"		"Le lancement du jeu du Duckhunt par un admin est {purple}désactivé!"
 	}
 
 	"duckhunt_ctwin_nc"
 	{
-		"en"		"All ducks have been hunted!"
+		"fr"		"Touts les canards ont été chassés!"
 	}
 
 	"duckhunt_twin_nc"
 	{
-		"en"		"The Duckhunter has been hunted!"
+		"fr"		"Le chasseur a été chassé!"
 	}
 
 	"duckhunt_end"
 	{
-		"en"		"{purple}Duckhunt{default} has ended."
+		"fr"		"Le jeu du {purple}Duckhunt{default} est terminé."
 	}
 
 	"duckhunt_next"
 	{
-		"en"		"The following round will be: {purple}Duckhunt."
+		"fr"		"Le prochain round sera : Le jeu du {purple}Duckhunt."
 	}
 
 	"duckhunt_next_nc"
 	{
-		"en"		"The following round will be: Duckhunt."
+		"fr"		"Le prochain round sera : Le jeu du Duckhunt."
 	}
 
 	"duckhunt_start"
 	{
-		"en"		"{purple}Duckhunt{default} has begun!"
+		"fr"		"Le jeu du {purple}Duckhunt{default} a commencé!"
 	}
 
 	"duckhunt_start_nc"
 	{
-		"en"		"Duckhunt has begun!"
+		"fr"		"Le jeu du Duckhunt a commencé!"
 	}
 
 	"duckhunt_voted"
 	{
-		"en"		"You have already voted for {purple}Duckhunt!"
+		"fr"		"Tu as déjà voté pour le jeu du {purple}Duckhunt!"
 	}
 
 	"duckhunt_progress"
 	{
 		"#format"	"{1:s}"
-		"en"		"Event {darkred}{1} {default}is {purple}already in progress."
+		"fr"		"L'évent {darkred}{1} {default}est {purple} déjà en cours !"
 	}
 
 	"duckhunt_minplayer"
 	{
-		"en"		"For Duckhunt, you must have at least {purple}one Guard, & one Prisoner"
+		"fr"		"Pour le Duckhunt, vous devez etres au moins {purple}un Gardien, & un Prisonnier"
 	}
 
 	"duckhunt_disabled"
 	{
-		"en"		"Duckhunt is currently {purple}disabled!"
+		"fr"		"Duckhunt est pour le moment {purple}désactivé !"
 	}
 
 	"duckhunt_timeuntilstart_nc"
 	{
 		"#format"	"{1:i}"
-		"en"		"{1} seconds until round start!"
+		"fr"		"{1} seconde(s) avant le début du round !"
 	}
 
 	"duckhunt_info_title"
 	{
-		"en"		"Duckhunt is now Activated!"
+		"fr"		"Duckhunt est maintenant Activé!"
 	}
 
 	"duckhunt_info_line1"
 	{
-		"en"		"Shoot all the ducks!"
+		"fr"		"Tire sur tout les canards!"
 	}
 
 	"duckhunt_info_line2"
 	{
-		"en"		"Guards have Novas!"
+		"fr"		"Les Gardiens ont des Nova!"
 	}
 
 	"duckhunt_info_line3"
 	{
-		"en"		"The Prisoners are now chickens and have grenades. Right click Only!"
+		"fr"		"Les Prisionniers sont maintenant des poulets et ont des grenades. Clique Droit seulement!"
 	}
 
 	"duckhunt_info_line4"
 	{
-		"en"		"All usual Jailbreak Rules do not apply during this round!"
+		"fr"		"Les règles du Jail Break ne s'appliquent pas pendant ce round !"
 	}
 
 	"duckhunt_info_line5"
 	{
-		"en"		"Last Request is disabled during this round!"
+		"fr"		"La dernière volonté est désactivé durant ce round!"
 	}
 
 	"duckhunt_info_line6"
 	{
-		"en"		"You must stay in the main Jailroom! Don't enter vents or secret areas!"
+		"fr"		"Restes dans la pièces des jails ! Lieux secrets interdits ! "
 	}
 
 	"duckhunt_info_line7"
 	{
-		"en"		"Don't be an Asshole!"
+		"fr"		"Ne sois pas un enculé !"
 	}
 
 	"duckhunt_name"
 	{
-		"en"		"Duckhunt"
+		"fr"		"Duckhunt"
 	}
 
 	"duckhunt_wait"
 	{
 		"#format"	"{1:i}"
-		"en"		"You must wait {purple}{1}{default} more rounds for an Event Day!"
+		"fr"		"Tu dois attendre {purple}{1}{default} round(s) supplémentaire pour un Event Day!"
 	}
 
 	"duckhunt_now_nc"
 	{
-		"en"		"Now a duckhunt round begins."
+		"fr"		"Le round Cowboy a maintenant commencé."
 	}
 
 	"duckhunt_now"
 	{
-		"en"		"Now a {purple}duckhunt{default} round begins."
+		"fr"		"Un round jeu du {purple}Duckhunt{default} commence !"
 	}
 
 }
