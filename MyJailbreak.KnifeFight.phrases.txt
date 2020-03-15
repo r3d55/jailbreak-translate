@@ -1,6 +1,6 @@
 ﻿// Exported from SourceMod Translator
 // Date: 2019-08-21 13:44:17 UTC
-// Language: English (en)
+// Language: French (fr)
 // 
 // To view other translations for this plugin, please visit:
 // http://translator.mitchdempsey.com/sourcemod_plugins/195
@@ -37,7 +37,7 @@
 
 	"knifefight_setbyadmin"
 	{
-		"fr"		"SLe lancement du combat au couteau par un admin est {purple}désactivé!"
+		"fr"		"Le lancement du combat au couteau par un admin est {purple}désactivé!"
 	}
 
 	"knifefight_ctwin_nc"
@@ -62,7 +62,7 @@
 
 	"knifefight_next_nc"
 	{
-		"fr"		"TLe prochain round sera: Le combat au couteau."
+		"fr"		"Le prochain round sera: Le combat au couteau."
 	}
 
 	"knifefight_start"
@@ -83,7 +83,7 @@
 	"knifefight_progress"
 	{
 		"#format"	"{1:s}"
-		"fr"		"TL'évenement {darkred}{1} {default}est {purple}déjà en cours!"
+		"fr"		"L'évenement {darkred}{1} {default}est {purple}déjà en cours!"
 	}
 
 	"knifefight_disabled"
