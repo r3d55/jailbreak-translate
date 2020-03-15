@@ -11,84 +11,84 @@
 	"suicidebomber_need"
 	{
 		"#format"	"{1:i},{2:N}"
-		"en"		"{purple}{2}{default} has voted. {purple}{1}{default} votes required to play {darkred}Suicide Bomber."
+		"fr"		"{purple}{2}{default} a voté. {purple}{1}{default}vote(s) requi(s) pour jouer au{darkred}SuicideBomber."
 	}
 
 	"suicidebomber_rounds"
 	{
 		"#format"	"{1:i},{2:i}"
-		"en"		"Round {purple}{1}{default} of {purple}{2}"
+		"fr"		"Round {purple}{1}{default} sur {purple}{2}"
 	}
 
 	"suicidebomber_twin_nc"
 	{
-		"en"		"All of the Guards were Eliminated!"
+		"fr"		"Tous les Gardiens sont eliminés!"
 	}
 
 	"suicidebomber_voting"
 	{
-		"en"		"Voting for Suicide Bomber is {purple}disabled!"
+		"fr"		"Le vote pour le SuicideBomber est {purple}désactivé!"
 	}
 
 	"suicidebomber_setbywarden"
 	{
-		"en"		"Set Suicide Bomber by Warden is {purple}disabled!"
+		"fr"		"Le lancement du SuicideBomber par un gardien est {purple}désactivé!"
 	}
 
 	"suicidebomber_minplayer"
 	{
-		"en"		"For Suicide Bomber you need at least {purple}one Guard & one Prisoner!"
+		"fr"		"Pour lancer le SuicideBomber il faut au moins {purple}un Gardien et un Prisonnier!"
 	}
 
 	"suicidebomber_setbyadmin"
 	{
-		"en"		"Set Suicide Bomber by Admin is {purple}disabled!"
+		"fr"		"Le lancement du SuicideBomber par un admin est {purple}désactivé!"
 	}
 
 	"suicidebomber_ctwin_nc"
 	{
-		"en"		"A Guard has survived!"
+		"fr"		"Le gardien a survécu!"
 	}
 
 	"suicidebomber_end"
 	{
-		"en"		"{purple}Suicide Bomber{default} has ended."
+		"fr"		"{purple}Suicide Bomber{default} est terminé."
 	}
 
 	"suicidebomber_next"
 	{
-		"en"		"The following round will be: {purple}Suicide Bomber."
+		"fr"		"Le prochain round sera un :{purple}Suicide Bomber."
 	}
 
 	"suicidebomber_next_nc"
 	{
-		"en"		"The following round will be: Suicide Bomber."
+		"fr"		"Le prochain round sera un : Suicide Bomber."
 	}
 
 	"suicidebomber_start"
 	{
-		"en"		"{purple}Suicide Bomber{default} has begun!"
+		"fr"		"{purple}Suicide Bomber{default} a commencé!"
 	}
 
 	"suicidebomber_start_nc"
 	{
-		"en"		"Suicide Bomber has begun!"
+		"fr"		"Suicide Bomber a commencé!"
 	}
 
 	"suicidebomber_voted"
 	{
-		"en"		"You have already voted for {purple}Suicide Bomber!"
+		"fr"		"Tu as déjà voté pour le {purple}Suicide Bomber!"
 	}
 
 	"suicidebomber_progress"
 	{
 		"#format"	"{1:s}"
-		"en"		"The event {darkred}{1} {default}is {purple}already in progress!"
+		"fr"		"L'event {darkred}{1} {default}est {purple}déja en cours!"
 	}
 
 	"suicidebomber_disabled"
 	{
-		"en"		"Suicide Bomber is currently {purple}disabled!"
+		"fr"		"Suicide Bomber est {purple}désactivé!"
 	}
 
 	"suicidebomber_sprint"
@@ -99,85 +99,85 @@
 	"suicidebomber_sprintend"
 	{
 		"#format"	"{1:i}"
-		"en"		"{blue}You're too tired to sprint!{default} Rest for {1} Seconds."
+		"fr"		"{blue}Tu est trop fatigué pour sprinter!{default} Attend encore {1} Seconds."
 	}
 
 	"suicidebomber_sprintagain"
 	{
-		"en"		"You caught your breath. You can {blue}sprint {default}again!"
+		"fr"		"Tu est bien reposé. Tu peux {blue}sprinter {default}de nouveau!"
 	}
 
 	"suicidebomber_timetohide_nc"
 	{
 		"#format"	"{1:i}"
-		"en"		"{1} seconds left to hide!"
+		"fr"		"{1} secondes pour te cacher!"
 	}
 
 	"suicidebomber_timeuntilopen_nc"
 	{
 		"#format"	"{1:i}"
-		"en"		"{1} Seconds until the Cells open!"
+		"fr"		"{1} Secondes avant l'ouverture des cellules!"
 	}
 
 	"suicidebomber_info_title"
 	{
-		"en"		"Suicide Bomber is now Activated!"
+		"fr"		"Suicide Bomber est maintenant activé!"
 	}
 
 	"suicidebomber_info_line1"
 	{
-		"en"		"Suicide Bombers are everywhere!"
+		"fr"		"Suicide Bombers pour tous!"
 	}
 
 	"suicidebomber_info_line2"
 	{
-		"en"		"Prisoners now have Jihads and can suicide with +lookweapon 'F' -key!"
+		"fr"		"Les Prisoniers sont maintenant des kamikazes et peuvent se faire explosés avec la touche 'F'!"
 	}
 
 	"suicidebomber_info_line3"
 	{
-		"en"		"Hold E to sprint!"
+		"fr"		"Appuie sur E pour sprinter!"
 	}
 
 	"suicidebomber_info_line4"
 	{
-		"en"		"All usual Jailbreak Rules do not apply during this round!"
+		"fr"		"Aucune règle du Jail Break ne s'applique pendant ce round!"
 	}
 
 	"suicidebomber_info_line5"
 	{
-		"en"		"Last Requests are disabled during this round!"
+		"fr"		"La Dérnière Volontée est désactivée pour ce round!"
 	}
 
 	"suicidebomber_info_line6"
 	{
-		"en"		"Everyone is allowed to go anywhere within the map!"
+		"fr"		"Tout le monde peut aller n'importe où!"
 	}
 
 	"suicidebomber_info_line7"
 	{
-		"en"		"Don't be an Asshole!"
+		"fr"		"Ne sois pas un enculé!"
 	}
 
 	"suicidebomber_wait"
 	{
 		"#format"	"{1:i}"
-		"en"		"You must wait {purple}{1}{default} more rounds for an Event Day!"
+		"fr"		"Tu dois attendre {purple}{1}{default} round(s) de plus pour un Event Day!"
 	}
 
 	"suicidebomber_name"
 	{
-		"en"		"Suicide Bomber"
+		"fr"		"Suicide Bomber"
 	}
 
 	"suicidebomber_now_nc"
 	{
-		"en"		"Now a suicidebomber round begins."
+		"fr"		"Un round Suicide Bomber a commencé."
 	}
 
 	"suicidebomber_now"
 	{
-		"en"		"Now a {purple}suicidebomber{default} round begins."
+		"fr"		"Un round {purple}suicidebomber{default} a commencé."
 	}
 
 }
