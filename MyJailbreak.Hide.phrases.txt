@@ -1,6 +1,6 @@
 // Exported from SourceMod Translator
 // Date: 2019-08-21 13:44:10 UTC
-// Language: English (en)
+// Language: French (fr)
 // 
 // To view other translations for this plugin, please visit:
 // http://translator.mitchdempsey.com/sourcemod_plugins/194
@@ -11,168 +11,168 @@
 	"hide_need"
 	{
 		"#format"	"{1:i},{2:N}"
-		"en"		"{purple}{2}{default} has voted. {purple}{1}{default} votes required to play {darkred}Hide in the Dark."
+		"fr"		"{purple}{2}{default} a voté. {purple}{1}{default} ton vote est requis pour jouer à {darkred}Cache-Cache."
 	}
 
 	"hide_twin_nc"
 	{
-		"en"		"Hiders win!"
+		"fr"		"Ceux qui devaient se cacher ont gagnés!"
 	}
 
 	"hide_rounds"
 	{
 		"#format"	"{1:i},{2:i}"
-		"en"		"Round {purple}{1}{default} of {purple}{2}"
+		"fr"		"Round {purple}{1}{default} sur {purple}{2}"
 	}
 
 	"hide_ctwin_nc"
 	{
-		"en"		"Seekers win!"
+		"fr"		"Les chercheurs ont gagnés!"
 	}
 
 	"hide_end"
 	{
-		"en"		"{purple}Hide in the Dark{default} has ended."
+		"fr"		"Le {purple}Cache-Cache{default} est terminé."
 	}
 
 	"hide_next_nc"
 	{
-		"en"		"The following round will be: Hide in the Dark."
+		"fr"		"Le prochain round sera un Cache-Cache."
 	}
 
 	"hide_next"
 	{
-		"en"		"The following round will be: {purple}Hide in the Dark."
+		"fr"		"Le prochain round sera un {purple}Cache-Cache."
 	}
 
 	"hide_start"
 	{
-		"en"		"{purple}Hide in the Dark{default} has begun!"
+		"fr"		"Le {purple}Cache-Cache{default} a commencé!"
 	}
 
 	"hide_start_nc"
 	{
-		"en"		"Hide in the Dark has begun!"
+		"fr"		"Le Cache-Cache a commencé!"
 	}
 
 	"hide_voted"
 	{
-		"en"		"You have already voted for {purple}Hide in the Dark!"
+		"fr"		"Tu as déjà voté pour un {purple}Cache-Cache!"
 	}
 
 	"hide_progress"
 	{
 		"#format"	"{1:s}"
-		"en"		"The event{darkred}{1} {default}is {purple}already in progress!"
+		"fr"		"L'évenement {darkred}{1} {default}est {purple}déjà en cours!"
 	}
 
 	"hide_minplayer"
 	{
-		"en"		"For Hide in the Dark you need at least {purple}one Guard and one Prisoner!"
+		"fr"		"Pour faire un Cache-Cache vous devez etres au moins {purple}un Gardien et un Prisonnier!"
 	}
 
 	"hide_disabled"
 	{
-		"en"		"Hide in the Dark currently {purple}disabled!"
+		"fr"		"Le Cache-Cache est pour le moment {purple}désactivé!"
 	}
 
 	"hide_voting"
 	{
-		"en"		"Voting for Hide in the Dark is {purple}disabled!"
+		"fr"		"Voter pour le Cache-Cache est {purple}désactivé!"
 	}
 
 	"hide_setbyWarden"
 	{
-		"en"		"Set Hide in the Dark by Warden is {purple}disabled!"
+		"fr"		"Le lancement du Cache-Cache par le chef des gardiens est {purple}désactivé!"
 	}
 
 	"hide_setbyadmin"
 	{
-		"en"		"Set Hide in the Dark by Admin is {purple}disabled!"
+		"fr"		"SLe lancement du Cache-Cache par un admin est {purple}désactivé!"
 	}
 
 	"hide_timetohide_nc"
 	{
 		"#format"	"{1:i}"
-		"en"		"{1} seconds left to hide!"
+		"fr"		"{1} seconde(s) restantes pour se cacher!"
 	}
 
 	"hide_timetounfreeze_nc"
 	{
 		"#format"	"{1:i}"
-		"en"		"{1} seconds until unfreeze!"
+		"fr"		"{1} seconde(s) avant que vous soyez dégelés!"
 	}
 
 	"hide_stillta"
 	{
 		"#format"	"{1:i}"
-		"en"		"You have {green}{1}{default} TAGrenade(s) left."
+		"fr"		"{green}{1}{default} TAGrenade(s) restantes."
 	}
 
 	"hide_nota"
 	{
-		"en"		"You've {green}run out{default} of TAGrenades!"
+		"fr"		"Tu {green}n'a plus {default} de TAGrenades!"
 	}
 
 	"hide_info_title"
 	{
-		"en"		"Hide In The Dark is now Activated!"
+		"fr"		"Le Cache-Cache est maintenat activé!"
 	}
 
 	"hide_info_line1"
 	{
-		"en"		"The Hiders have time to hide at the start of the round!"
+		"fr"		"Au début du round les cachés doivent se cacher!"
 	}
 
 	"hide_info_line2"
 	{
-		"en"		"Hiders will be frozen when the Seeker becomes unfreezed!"
+		"fr"		"Les cachés seront gelés quand les chercheurs seront dégelés!"
 	}
 
 	"hide_info_line3"
 	{
-		"en"		"The Seeker has been given TAGrenades!"
+		"fr"		"Le chercheur a reçus des TAGrenades!"
 	}
 
 	"hide_info_line4"
 	{
-		"en"		"All ususal Jailbreak Rules do not apply during this round!"
+		"fr"		"AToutes les règles du Jailbreak ne s'applique pas sur ce round!"
 	}
 
 	"hide_info_line5"
 	{
-		"en"		"Last Request is disabled during this round!"
+		"fr"		"La dernière requête est désactivé sur ce round!"
 	}
 
 	"hide_info_line6"
 	{
-		"en"		"Everyone is allowed to go anywhere within the map!"
+		"fr"		"Tout le monde est autorisé à aller n'importe où!"
 	}
 
 	"hide_info_line7"
 	{
-		"en"		"Don't be an Asshole!"
+		"fr"		"Ne sois pas un enculé!"
 	}
 
 	"hide_wait"
 	{
 		"#format"	"{1:i}"
-		"en"		"You must wait {purple}{1}{default} more rounds for an Event Day!"
+		"fr"		"Tu dois attendre {purple}{1}{default} de rounds avant un Jour Event"
 	}
 
 	"hide_name"
 	{
-		"en"		"Hide in the Dark"
+		"fr"		"Cache-Cache"
 	}
 
 	"hide_now_nc"
 	{
-		"en"		"Now a hide round begins."
+		"fr"		"Le Cache-Cache commence."
 	}
 
 	"hide_now"
 	{
-		"en"		"Now a {purple}hide{default} round begins."
+		"fr"		"Maintenant un {purple}Cache-Cache{default} commence."
 	}
 
 }
