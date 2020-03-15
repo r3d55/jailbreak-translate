@@ -1,6 +1,6 @@
 // Exported from SourceMod Translator
 // Date: 2019-08-21 13:44:09 UTC
-// Language: English (en)
+// Language: French (fr)
 // 
 // To view other translations for this plugin, please visit:
 // http://translator.mitchdempsey.com/sourcemod_plugins/187
@@ -11,157 +11,157 @@
 	"ffa_need"
 	{
 		"#format"	"{1:i},{2:N}"
-		"en"		"{purple}{2}{default} has voted. {purple}{1}{default} vote(s) required to play {darkred}FFA."
+		"fr"		"{purple}{2}{default} a voté. {purple}{1}{default} vote(s) requis pour jouer à la{darkred}Mélée Générale."
 	}
 
 	"ffa_voting"
 	{
-		"en"		"Voting for FFA is {purple}disabled!"
+		"fr"		"Le vote pour la Mélée Générale est {purple}désactivé !"
 	}
 
 	"ffa_setbywarden"
 	{
-		"en"		"Set FFA by Warden is {purple}disabled!"
+		"fr"		"Le lancement de la Mélée Générale est {purple}désactivé !"
 	}
 
 	"ffa_setbyadmin"
 	{
-		"en"		"Set FFA by Admin is {purple}disabled!"
+		"fr"		"Le lancement de la Mélée Générale par un admin est {purple}désactivé!"
 	}
 
 	"ffa_ctwin_nc"
 	{
-		"en"		"A Guard has survived!"
+		"fr"		"Un Gardien a survécu!"
 	}
 
 	"ffa_twin_nc"
 	{
-		"en"		"A Prisoner has survived!"
+		"fr"		"Un Prisonnier a survécu!"
 	}
 
 	"ffa_minplayer"
 	{
-		"en"		"For FFA you need at least {purple}one Guard, & one Prisoner!"
+		"fr"		"Pour la Mélée Générale vous  devez etres au moins{purple}un Gardien, & un Prisonnier!"
 	}
 
 	"ffa_end"
 	{
-		"en"		"{purple}FFA{default} has ended!"
+		"fr"		"La {purple}Mélée Générale{default} est terminé."
 	}
 
 	"ffa_next"
 	{
-		"en"		"The following round will be: {purple}FFA."
+		"fr"		"Le prochain round sera une {purple}Mélée Générale."
 	}
 
 	"ffa_next_nc"
 	{
-		"en"		"The following round will be: FFA."
+		"fr"		"Le prochain round sera une Mélée Générale."
 	}
 
 	"ffa_rounds"
 	{
 		"#format"	"{1:i},{2:i}"
-		"en"		"Round {purple}{1}{default} of {purple}{2}"
+		"fr"		"Round {purple}{1}{default} sur {purple}{2}"
 	}
 
 	"ffa_start"
 	{
-		"en"		"{purple}FFA{default} has begun!"
+		"fr"		"La {purple}Mélée Générale{default} a commencée!"
 	}
 
 	"ffa_start_nc"
 	{
-		"en"		"FFA has begun!"
+		"fr"		"La Mélée Générale a commencée!"
 	}
 
 	"ffa_voted"
 	{
-		"en"		"You have already voted for {purple}FFA!"
+		"fr"		"Tu as déjà voté pour la {purple}Mélée Générale!"
 	}
 
 	"ffa_progress"
 	{
 		"#format"	"{1:s}"
-		"en"		"The event {darkred}{1} {default}is {purple}already in progress!"
+		"fr"		"L'évent {darkred}{1} {default}est {purple} déjà en cours !"
 	}
 
 	"ffa_disabled"
 	{
-		"en"		"FFA is currently {purple}disabled!"
+		"fr"		"La Mélée Générale est pour le moment {purple}désactivée!"
 	}
 
 	"ffa_damage_nc"
 	{
 		"#format"	"{1:i}"
-		"en"		"{1} seconds until damage enabled"
+		"fr"		"{1} seconde(s) avant que les dommages soient actifs!"
 	}
 
 	"ffa_damage_nc"
 	{
 		"#format"	"{1:i}"
-		"en"		"{1} seconds until damage enabled"
+		"fr"		"{1} seconde(s) avant que les dommages soient actifs!"
 	}
 
 	"ffa_info_title"
 	{
-		"en"		"Free for All Deathmatch is now Activated!"
+		"fr"		"La Mélée Générale est désormait active!"
 	}
 
 	"ffa_info_line1"
 	{
-		"en"		"Don't be suprised if you've spawned in the Armory!"
+		"fr"		"Ne soyez pas surpris si vous spawnez dans l'Armurerie!"
 	}
 
 	"ffa_info_line2"
 	{
-		"en"		"Free for All - Player VS Player - The last man standing wins!"
+		"fr"		"Mélée Générale - Joueur VS Joueur - Le dernier en vie a gagner!"
 	}
 
 	"ffa_info_line3"
 	{
-		"en"		"Run away during the 'NoDamage' phase!"
+		"fr"		"Enfuis-toi pendant la phase d'invincibilité !"
 	}
 
 	"ffa_info_line4"
 	{
-		"en"		"All usual Jailbreak Rules do not apply during this round!"
+		"fr"		"Les règles du Jail Break ne s'appliquent pas pendant ce round !"
 	}
 
 	"ffa_info_line5"
 	{
-		"en"		"Last Request is disabled during this round!"
+		"fr"		"La dernière volonté est désactivé durant ce round!"
 	}
 
 	"ffa_info_line6"
 	{
-		"en"		"Everyone is allowed to go anywhere within the map!"
+		"fr"		"Tout le monde est autorisé a aller n'importe où!"
 	}
 
 	"ffa_info_line7"
 	{
-		"en"		"Don't be an Asshole!"
+		"fr"		"Ne sois pas un enculé !"
 	}
 
 	"ffa_wait"
 	{
 		"#format"	"{1:i}"
-		"en"		"You must wait {purple}{1}{default} more rounds for an Event Day!"
+		"fr"		"Tu dois attendre {purple}{1}{default} round(s) supplémentaire pour un Event Day!"
 	}
 
 	"ffa_name"
 	{
-		"en"		"Free for All"
+		"fr"		"Mélée Générale"
 	}
 
 	"ffa_now_nc"
 	{
-		"en"		"Now a ffa round begins."
+		"fr"		"Maintenant un round Mélée Générale commence."
 	}
 
 	"ffa_now"
 	{
-		"en"		"Now a {purple}ffa{default} round begins."
+		"fr"		"Maintenant un round {purple}Mélée Générale{default} commence."
 	}
 
 }
