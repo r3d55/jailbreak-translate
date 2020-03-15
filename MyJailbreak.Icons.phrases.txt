@@ -1,6 +1,6 @@
 // Exported from SourceMod Translator
 // Date: 2019-08-21 13:44:21 UTC
-// Language: English (en)
+// Language: French (fr)
 // 
 // To view other translations for this plugin, please visit:
 // http://translator.mitchdempsey.com/sourcemod_plugins/298
@@ -10,12 +10,12 @@
 
 	"icons_on"
 	{
-		"en"		"Icons {purple}are enabled!"
+		"fr"		"Les icones sont {purple}activées!"
 	}
 
 	"icons_off"
 	{
-		"en"		"Icons {purple}are disabled"
+		"fr"		"Les icones sont {purple}desactivées"
 	}
 
 }
