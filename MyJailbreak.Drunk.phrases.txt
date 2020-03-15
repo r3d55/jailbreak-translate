@@ -1,7 +1,5 @@
 // Exported from SourceMod Translator
 // Date: 2019-08-21 13:44:12 UTC
-// Language: French (fr)
-// 
 // To view other translations for this plugin, please visit:
 // http://translator.mitchdempsey.com/sourcemod_plugins/191
 //
@@ -11,7 +9,6 @@
 	"drunk_need"
 	{
 		"#format"	"{1:i},{2:N}"
-		"fr"		"{purple}{2}{default} a voté. {purple}{1}{default} vote(s) requis pour jouer à {darkred}Drunken Day."
 	}
 
 	"drunk_rounds"
@@ -52,11 +49,13 @@
 
 	"drunk_next"
 	{
+
 		"fr"		"Le prochain round sera : Le jeu du {purple}Drunken Day."
 	}
 
 	"drunk_next_nc"
 	{
+
 		"fr"		"Le prochain round sera : Le jeu du Drunken Day."
 	}
 
@@ -72,12 +71,15 @@
 
 	"drunk_voted"
 	{
+
 		"fr"		"Tu as déjà voté pour le jeu du {purple}Drunken Day!"
+
 	}
 
 	"drunk_progress"
 	{
 		"#format"	"{1:s}"
+
 		"fr"		"L'évent {darkred}{1} {default}est {purple} déjà en cours!"
 	}
 
@@ -94,11 +96,13 @@
 
 	"drunk_info_title"
 	{
+
 		"fr"		"Drunken Day est maintenant actif!"
 	}
 
 	"drunk_info_line1"
 	{
+
 		"fr"		"Drunken Day est maintenant actif!"
 	}
 
@@ -114,27 +118,32 @@
 
 	"drunk_info_line4"
 	{
+
 		"fr"		"Les règles du Jail Break ne s'appliquent pas pendant ce round !"
 	}
 
 	"drunk_info_line5"
 	{
+
 		"fr"		"La dernière volonté est désactivé durant ce round!"
 	}
 
 	"drunk_info_line6"
 	{
+
 		"fr"		"Tout le monde est autorisé à aller n'importe où!"
 	}
 
 	"drunk_info_line7"
 	{
+
 		"fr"		"Ne sois pas un enculé!"
 	}
 
 	"drunk_wait"
 	{
 		"#format"	"{1:i}"
+
 		"fr"		"Tu dois attendre {purple}{1}{default} round(s) supplémentaire pour un Event Day!"
 	}
 
@@ -145,6 +154,7 @@
 
 	"drunk_now_nc"
 	{
+
 		"fr"		"Le round Drunken Day a maintenant commencé."
 	}
 
